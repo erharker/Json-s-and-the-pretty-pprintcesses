@@ -1,0 +1,2539 @@
+Date,Month ,Day,Country,Cumulative number of case(s),Number of deaths,Number recovered
+"April 1, 2003",April,1,Australia,1,0,0
+"April 2, 2003",April,2,Australia,1,0,0
+"April 3, 2003",April,3,Australia,1,0,0
+"April 4, 2003",April,4,Australia,1,0,0
+"April 5, 2003",April,5,Australia,1,0,0
+"April 7, 2003",April,7,Australia,1,0,0
+"April 8, 2003",April,8,Australia,1,0,0
+"April 17, 2003",April,17,Australia,3,0,3
+"April 18, 2003",April,18,Australia,3,0,3
+"April 19, 2003",April,19,Australia,3,0,3
+"April 21, 2003",April,21,Australia,3,0,3
+"April 22, 2003",April,22,Australia,3,0,3
+"April 23, 2003",April,23,Australia,4,0,3
+"May 22, 2003",May,22,Australia,6,0,6
+"May 28, 2003",May,28,Australia,6,0,6
+"May 29, 2003",May,29,Australia,6,0,6
+"June 30, 2003",June,30,Australia,5,0,5
+"April 1, 2003",April,1,Belgium,1,0,0
+"April 2, 2003",April,2,Belgium,1,0,0
+"April 3, 2003",April,3,Belgium,1,0,0
+"April 4, 2003",April,4,Belgium,1,0,0
+"April 5, 2003",April,5,Belgium,1,0,0
+"April 3, 2003",April,3,Brazil,1,0,0
+"April 4, 2003",April,4,Brazil,1,0,0
+"April 5, 2003",April,5,Brazil,1,0,0
+"April 7, 2003",April,7,Brazil,1,0,0
+"April 8, 2003",April,8,Brazil,1,0,0
+"April 9, 2003",April,9,Brazil,1,0,0
+"April 10, 2003",April,10,Brazil,2,0,0
+"April 11, 2003",April,11,Brazil,2,0,0
+"April 12, 2003",April,12,Brazil,2,0,0
+"April 14, 2003",April,14,Brazil,2,0,0
+"April 15, 2003",April,15,Brazil,2,0,0
+"April 16, 2003",April,16,Brazil,2,0,0
+"April 17, 2003",April,17,Brazil,2,0,0
+"April 18, 2003",April,18,Brazil,2,0,0
+"April 19, 2003",April,19,Brazil,2,0,0
+"April 21, 2003",April,21,Brazil,2,0,0
+"April 22, 2003",April,22,Brazil,2,0,0
+"April 23, 2003",April,23,Brazil,2,0,0
+"April 24, 2003",April,24,Brazil,2,0,2
+"April 25, 2003",April,25,Brazil,2,0,2
+"April 26, 2003",April,26,Brazil,2,0,2
+"April 28, 2003",April,28,Brazil,2,0,2
+"April 29, 2003",April,29,Brazil,2,0,2
+"April 30, 2003",April,30,Brazil,2,0,2
+"May 1, 2003",May,1,Brazil,2,0,2
+"May 2, 2003",May,2,Brazil,2,0,2
+"May 3, 2003",May,3,Brazil,2,0,2
+"May 5, 2003",May,5,Brazil,2,0,2
+"May 6, 2003",May,6,Brazil,2,0,2
+"May 7, 2003",May,7,Brazil,2,0,2
+"May 8, 2003",May,8,Brazil,2,0,2
+"May 9, 2003",May,9,Brazil,2,0,2
+"May 10, 2003",May,10,Brazil,2,0,2
+"May 12, 2003",May,12,Brazil,2,0,2
+"May 13, 2003",May,13,Brazil,2,0,2
+"May 14, 2003",May,14,Brazil,2,0,2
+"May 15, 2003",May,15,Brazil,2,0,2
+"May 16, 2003",May,16,Brazil,2,0,2
+"May 17, 2003",May,17,Brazil,2,0,2
+"May 19, 2003",May,19,Brazil,2,0,2
+"May 20, 2003",May,20,Brazil,2,0,2
+"May 21, 2003",May,21,Brazil,2,0,2
+"May 22, 2003",May,22,Brazil,2,0,2
+"May 23, 2003",May,23,Brazil,2,0,2
+"May 24, 2003",May,24,Brazil,2,0,2
+"May 26, 2003",May,26,Brazil,2,0,2
+"May 27, 2003",May,27,Brazil,2,0,2
+"May 28, 2003",May,28,Brazil,2,0,2
+"May 29, 2003",May,29,Brazil,2,0,2
+"May 30, 2003",May,30,Brazil,2,0,2
+"May 31, 2003",May,31,Brazil,2,0,2
+"June 2, 2003",June,2,Brazil,2,0,2
+"June 3, 2003",June,3,Brazil,2,0,2
+"June 4, 2003",June,4,Brazil,2,0,2
+"June 5, 2003",June,5,Brazil,2,0,2
+"June 6, 2003",June,6,Brazil,2,0,2
+"June 9, 2003",June,9,Brazil,2,0,2
+"June 10, 2003",June,10,Brazil,3,0,2
+"June 11, 2003",June,11,Brazil,3,0,2
+"June 12, 2003",June,12,Brazil,3,0,2
+"June 13, 2003",June,13,Brazil,3,0,2
+"June 16, 2003",June,16,Brazil,3,0,2
+"June 17, 2003",June,17,Brazil,3,0,2
+"June 18, 2003",June,18,Brazil,3,0,2
+"June 19, 2003",June,19,Brazil,3,0,2
+"June 20, 2003",June,20,Brazil,3,0,2
+"June 23, 2003",June,23,Brazil,3,0,2
+"June 24, 2003",June,24,Brazil,3,0,2
+"June 25, 2003",June,25,Brazil,3,0,2
+"June 26, 2003",June,26,Brazil,3,0,2
+"June 27, 2003",June,27,Brazil,3,0,2
+"June 30, 2003",June,30,Brazil,3,0,2
+"July 1, 2003",July,1,Brazil,1,0,1
+"July 2, 2003",July,2,Brazil,1,0,1
+"July 3, 2003",July,3,Brazil,1,0,1
+"July 4, 2003",July,4,Brazil,1,0,1
+"July 7, 2003",July,7,Brazil,1,0,1
+"July 8, 2003",July,8,Brazil,1,0,1
+"July 9, 2003",July,9,Brazil,1,0,1
+"July 10, 2003",July,10,Brazil,1,0,1
+"July 11, 2003",July,11,Brazil,1,0,1
+"April 24, 2003",April,24,Bulgaria,1,0,0
+"April 25, 2003",April,25,Bulgaria,1,0,0
+"April 26, 2003",April,26,Bulgaria,1,0,0
+"April 28, 2003",April,28,Bulgaria,1,0,0
+"April 29, 2003",April,29,Bulgaria,1,0,0
+"April 30, 2003",April,30,Bulgaria,1,0,0
+"May 1, 2003",May,1,Bulgaria,1,0,0
+"May 2, 2003",May,2,Bulgaria,1,0,0
+"May 3, 2003",May,3,Bulgaria,1,0,0
+"May 5, 2003",May,5,Bulgaria,1,0,0
+"May 6, 2003",May,6,Bulgaria,1,0,0
+"May 7, 2003",May,7,Bulgaria,1,0,0
+"May 8, 2003",May,8,Bulgaria,1,0,0
+"May 9, 2003",May,9,Bulgaria,1,0,0
+"May 10, 2003",May,10,Bulgaria,1,0,0
+"May 12, 2003",May,12,Bulgaria,1,0,0
+"May 13, 2003",May,13,Bulgaria,1,0,0
+"May 14, 2003",May,14,Bulgaria,1,0,0
+"May 15, 2003",May,15,Bulgaria,1,0,0
+"May 16, 2003",May,16,Bulgaria,1,0,0
+"March 17, 2003",March,17,Canada,8,2,0
+"March 18, 2003",March,18,Canada,8,2,0
+"March 19, 2003",March,19,Canada,8,2,0
+"March 20, 2003",March,20,Canada,9,2,0
+"March 21, 2003",March,21,Canada,9,2,0
+"March 22, 2003",March,22,Canada,9,2,0
+"March 24, 2003",March,24,Canada,11,3,0
+"March 25, 2003",March,25,Canada,11,3,0
+"March 26, 2003",March,26,Canada,19,3,0
+"March 27, 2003",March,27,Canada,28,3,0
+"March 28, 2003",March,28,Canada,29,3,0
+"March 29, 2003",March,29,Canada,37,3,0
+"March 31, 2003",March,31,Canada,44,4,0
+"April 1, 2003",April,1,Canada,53,4,0
+"April 2, 2003",April,2,Canada,58,6,0
+"April 3, 2003",April,3,Canada,62,6,0
+"April 4, 2003",April,4,Canada,69,7,0
+"April 5, 2003",April,5,Canada,74,7,0
+"April 7, 2003",April,7,Canada,90,9,0
+"April 8, 2003",April,8,Canada,91,10,0
+"April 9, 2003",April,9,Canada,94,10,0
+"April 10, 2003",April,10,Canada,97,10,22
+"April 11, 2003",April,11,Canada,98,10,25
+"April 12, 2003",April,12,Canada,101,10,26
+"April 14, 2003",April,14,Canada,100,13,27
+"April 15, 2003",April,15,Canada,100,13,27
+"April 16, 2003",April,16,Canada,103,13,37
+"April 17, 2003",April,17,Canada,126,12,46
+"April 18, 2003",April,18,Canada,132,12,54
+"April 19, 2003",April,19,Canada,132,12,54
+"April 21, 2003",April,21,Canada,132,12,54
+"April 22, 2003",April,22,Canada,139,13,65
+"April 23, 2003",April,23,Canada,140,13,65
+"April 24, 2003",April,24,Canada,140,15,67
+"April 25, 2003",April,25,Canada,140,15,74
+"April 26, 2003",April,26,Canada,142,18,77
+"April 28, 2003",April,28,Canada,142,18,77
+"April 29, 2003",April,29,Canada,146,20,86
+"April 30, 2003",April,30,Canada,148,20,87
+"May 1, 2003",May,1,Canada,147,20,87
+"May 2, 2003",May,2,Canada,149,22,93
+"May 3, 2003",May,3,Canada,149,22,94
+"May 5, 2003",May,5,Canada,148,22,93
+"May 6, 2003",May,6,Canada,148,22,93
+"May 7, 2003",May,7,Canada,146,22,93
+"May 8, 2003",May,8,Canada,146,22,95
+"May 9, 2003",May,9,Canada,145,22,94
+"May 10, 2003",May,10,Canada,145,22,97
+"May 12, 2003",May,12,Canada,143,22,98
+"May 13, 2003",May,13,Canada,143,22,99
+"May 14, 2003",May,14,Canada,143,23,104
+"May 15, 2003",May,15,Canada,142,23,107
+"May 16, 2003",May,16,Canada,140,23,106
+"May 17, 2003",May,17,Canada,140,23,106
+"May 19, 2003",May,19,Canada,140,23,106
+"May 20, 2003",May,20,Canada,140,23,106
+"May 21, 2003",May,21,Canada,140,23,108
+"May 22, 2003",May,22,Canada,140,23,109
+"May 23, 2003",May,23,Canada,140,23,109
+"May 24, 2003",May,24,Canada,140,23,109
+"May 26, 2003",May,26,Canada,148,26,110
+"May 27, 2003",May,27,Canada,148,26,111
+"May 28, 2003",May,28,Canada,149,26,111
+"May 29, 2003",May,29,Canada,151,26,112
+"May 30, 2003",May,30,Canada,159,28,112
+"May 31, 2003",May,31,Canada,188,30,116
+"June 2, 2003",June,2,Canada,198,30,116
+"June 3, 2003",June,3,Canada,213,31,116
+"June 4, 2003",June,4,Canada,216,31,121
+"June 5, 2003",June,5,Canada,218,31,120
+"June 6, 2003",June,6,Canada,219,31,120
+"June 9, 2003",June,9,Canada,229,32,128
+"June 10, 2003",June,10,Canada,229,32,131
+"June 11, 2003",June,11,Canada,230,32,134
+"June 12, 2003",June,12,Canada,238,32,141
+"June 13, 2003",June,13,Canada,242,32,150
+"June 16, 2003",June,16,Canada,243,32,156
+"June 17, 2003",June,17,Canada,247,32,171
+"June 18, 2003",June,18,Canada,246,33,176
+"June 19, 2003",June,19,Canada,245,34,175
+"June 20, 2003",June,20,Canada,245,34,180
+"June 23, 2003",June,23,Canada,246,35,182
+"June 24, 2003",June,24,Canada,249,37,188
+"June 25, 2003",June,25,Canada,250,37,188
+"June 26, 2003",June,26,Canada,251,37,190
+"June 27, 2003",June,27,Canada,251,37,191
+"June 30, 2003",June,30,Canada,252,37,192
+"July 1, 2003",July,1,Canada,252,38,192
+"July 2, 2003",July,2,Canada,252,38,192
+"July 3, 2003",July,3,Canada,251,38,193
+"July 4, 2003",July,4,Canada,251,38,193
+"July 7, 2003",July,7,Canada,251,38,193
+"July 8, 2003",July,8,Canada,250,38,194
+"July 9, 2003",July,9,Canada,249,38,193
+"July 10, 2003",July,10,Canada,250,38,194
+"July 11, 2003",July,11,Canada,250,38,194
+"March 18, 2003",March,18,China,0,0,0
+"March 19, 2003",March,19,China,0,0,0
+"March 20, 2003",March,20,China,0,0,0
+"March 21, 2003",March,21,China,0,0,0
+"March 22, 2003",March,22,China,0,0,0
+"March 24, 2003",March,24,China,0,0,0
+"March 25, 2003",March,25,China,0,0,0
+"March 26, 2003",March,26,China,792,31,0
+"March 27, 2003",March,27,China,806,34,0
+"March 28, 2003",March,28,China,806,34,0
+"March 29, 2003",March,29,China,806,34,0
+"March 31, 2003",March,31,China,806,34,0
+"April 1, 2003",April,1,China,806,34,0
+"April 2, 2003",April,2,China,1190,46,0
+"April 3, 2003",April,3,China,1190,46,0
+"April 4, 2003",April,4,China,1220,49,0
+"April 5, 2003",April,5,China,1220,49,0
+"April 7, 2003",April,7,China,1268,53,0
+"April 8, 2003",April,8,China,1279,53,0
+"April 9, 2003",April,9,China,1280,53,0
+"April 10, 2003",April,10,China,1290,55,1025
+"April 11, 2003",April,11,China,1309,58,1037
+"April 12, 2003",April,12,China,1309,58,1037
+"April 12, 2003",April,12,China,62,4,46
+"April 14, 2003",April,14,China,1418,64,1088
+"April 15, 2003",April,15,China,1418,64,1088
+"April 16, 2003",April,16,China,1432,64,1094
+"April 17, 2003",April,17,China,1457,65,1107
+"April 18, 2003",April,18,China,1512,65,1140
+"April 19, 2003",April,19,China,1512,65,1140
+"April 21, 2003",April,21,China,1959,86,1187
+"April 22, 2003",April,22,China,2001,92,1201
+"April 23, 2003",April,23,China,2305,106,1231
+"April 24, 2003",April,24,China,2422,110,1254
+"April 25, 2003",April,25,China,2601,115,1277
+"April 26, 2003",April,26,China,2753,122,1285
+"April 28, 2003",April,28,China,2914,131,1299
+"April 29, 2003",April,29,China,3303,148,1322
+"April 30, 2003",April,30,China,3460,159,1332
+"May 1, 2003",May,1,China,3638,170,1351
+"May 2, 2003",May,2,China,3799,181,1372
+"May 3, 2003",May,3,China,3971,190,1406
+"May 5, 2003",May,5,China,4280,206,1433
+"May 6, 2003",May,6,China,4409,214,1460
+"May 7, 2003",May,7,China,4560,219,1487
+"May 8, 2003",May,8,China,4698,224,1529
+"May 9, 2003",May,9,China,4805,230,1582
+"May 10, 2003",May,10,China,4884,235,1620
+"May 12, 2003",May,12,China,5013,252,1693
+"May 13, 2003",May,13,China,5086,262,1765
+"May 14, 2003",May,14,China,5124,267,1811
+"May 15, 2003",May,15,China,5163,271,1858
+"May 16, 2003",May,16,China,5191,275,1947
+"May 17, 2003",May,17,China,5209,282,2009
+"May 19, 2003",May,19,China,5236,289,2148
+"May 20, 2003",May,20,China,5248,294,2254
+"May 21, 2003",May,21,China,5249,296,2335
+"May 22, 2003",May,22,China,5271,300,2445
+"May 23, 2003",May,23,China,5285,303,2544
+"May 24, 2003",May,24,China,5309,308,2675
+"May 26, 2003",May,26,China,5316,317,2829
+"May 27, 2003",May,27,China,5322,321,2944
+"May 28, 2003",May,28,China,5323,325,3036
+"May 29, 2003",May,29,China,5325,327,3121
+"May 30, 2003",May,30,China,5328,328,3250
+"May 31, 2003",May,31,China,5328,332,3371
+"June 2, 2003",June,2,China,5328,334,3495
+"June 3, 2003",June,3,China,5329,334,3558
+"June 4, 2003",June,4,China,5329,334,3674
+"June 5, 2003",June,5,China,5329,336,3770
+"June 6, 2003",June,6,China,5329,338,3869
+"June 9, 2003",June,9,China,5328,340,4186
+"June 10, 2003",June,10,China,5328,343,4294
+"June 11, 2003",June,11,China,5329,343,4390
+"June 12, 2003",June,12,China,5328,343,4457
+"June 13, 2003",June,13,China,5327,343,4530
+"June 16, 2003",June,16,China,5326,346,4656
+"June 17, 2003",June,17,China,5326,346,4725
+"June 18, 2003",June,18,China,5326,347,4762
+"June 19, 2003",June,19,China,5326,347,4786
+"June 20, 2003",June,20,China,5326,347,4806
+"June 23, 2003",June,23,China,5326,347,4895
+"June 24, 2003",June,24,China,5326,347,4901
+"June 25, 2003",June,25,China,5327,348,4916
+"June 26, 2003",June,26,China,5327,348,4921
+"June 27, 2003",June,27,China,5327,348,4921
+"June 30, 2003",June,30,China,5327,348,4927
+"July 1, 2003",July,1,China,5327,348,4930
+"July 2, 2003",July,2,China,5327,348,4933
+"July 3, 2003",July,3,China,5327,348,4933
+"July 4, 2003",July,4,China,5327,348,4934
+"July 7, 2003",July,7,China,5327,348,4934
+"July 8, 2003",July,8,China,5327,348,4934
+"July 9, 2003",July,9,China,5327,348,4939
+"July 10, 2003",July,10,China,5327,348,4941
+"July 11, 2003",July,11,China,5327,348,4941
+"May 6, 2003",May,6,Colombia,1,0,1
+"May 7, 2003",May,7,Colombia,1,0,1
+"May 8, 2003",May,8,Colombia,1,0,1
+"May 9, 2003",May,9,Colombia,1,0,1
+"May 10, 2003",May,10,Colombia,1,0,1
+"May 12, 2003",May,12,Colombia,1,0,1
+"May 13, 2003",May,13,Colombia,1,0,1
+"May 14, 2003",May,14,Colombia,1,0,1
+"May 15, 2003",May,15,Colombia,1,0,1
+"May 16, 2003",May,16,Colombia,1,0,1
+"May 17, 2003",May,17,Colombia,1,0,1
+"May 19, 2003",May,19,Colombia,1,0,1
+"May 20, 2003",May,20,Colombia,1,0,1
+"May 21, 2003",May,21,Colombia,1,0,1
+"May 22, 2003",May,22,Colombia,1,0,1
+"May 23, 2003",May,23,Colombia,1,0,1
+"May 24, 2003",May,24,Colombia,1,0,1
+"May 26, 2003",May,26,Colombia,1,0,1
+"May 27, 2003",May,27,Colombia,1,0,1
+"May 28, 2003",May,28,Colombia,1,0,1
+"May 29, 2003",May,29,Colombia,1,0,1
+"May 30, 2003",May,30,Colombia,1,0,1
+"May 31, 2003",May,31,Colombia,1,0,1
+"June 2, 2003",June,2,Colombia,1,0,1
+"June 3, 2003",June,3,Colombia,1,0,1
+"June 4, 2003",June,4,Colombia,1,0,1
+"June 5, 2003",June,5,Colombia,1,0,1
+"June 6, 2003",June,6,Colombia,1,0,1
+"June 9, 2003",June,9,Colombia,1,0,1
+"June 10, 2003",June,10,Colombia,1,0,1
+"June 11, 2003",June,11,Colombia,1,0,1
+"June 12, 2003",June,12,Colombia,1,0,1
+"June 13, 2003",June,13,Colombia,1,0,1
+"June 16, 2003",June,16,Colombia,1,0,1
+"June 17, 2003",June,17,Colombia,1,0,1
+"June 18, 2003",June,18,Colombia,1,0,1
+"June 19, 2003",June,19,Colombia,1,0,1
+"June 20, 2003",June,20,Colombia,1,0,1
+"June 23, 2003",June,23,Colombia,1,0,1
+"June 24, 2003",June,24,Colombia,1,0,1
+"June 25, 2003",June,25,Colombia,1,0,1
+"June 26, 2003",June,26,Colombia,1,0,1
+"June 27, 2003",June,27,Colombia,1,0,1
+"June 30, 2003",June,30,Colombia,1,0,1
+"July 1, 2003",July,1,Colombia,1,0,1
+"July 2, 2003",July,2,Colombia,1,0,1
+"July 3, 2003",July,3,Colombia,1,0,1
+"July 4, 2003",July,4,Colombia,1,0,1
+"July 7, 2003",July,7,Colombia,1,0,1
+"July 8, 2003",July,8,Colombia,1,0,1
+"July 9, 2003",July,9,Colombia,1,0,1
+"July 10, 2003",July,10,Colombia,1,0,1
+"July 11, 2003",July,11,Colombia,1,0,1
+"May 8, 2003",May,8,Finland,1,0,0
+"May 9, 2003",May,9,Finland,1,0,0
+"May 10, 2003",May,10,Finland,1,0,0
+"May 12, 2003",May,12,Finland,1,0,0
+"May 13, 2003",May,13,Finland,1,0,0
+"May 14, 2003",May,14,Finland,1,0,0
+"May 15, 2003",May,15,Finland,1,0,0
+"May 16, 2003",May,16,Finland,1,0,0
+"May 17, 2003",May,17,Finland,1,0,0
+"May 19, 2003",May,19,Finland,1,0,0
+"May 20, 2003",May,20,Finland,1,0,0
+"May 21, 2003",May,21,Finland,1,0,1
+"May 22, 2003",May,22,Finland,1,0,1
+"May 23, 2003",May,23,Finland,1,0,1
+"May 24, 2003",May,24,Finland,1,0,1
+"May 26, 2003",May,26,Finland,1,0,1
+"May 27, 2003",May,27,Finland,1,0,1
+"May 28, 2003",May,28,Finland,1,0,1
+"May 29, 2003",May,29,Finland,1,0,1
+"May 30, 2003",May,30,Finland,1,0,1
+"May 31, 2003",May,31,Finland,1,0,1
+"June 2, 2003",June,2,Finland,1,0,1
+"June 3, 2003",June,3,Finland,1,0,1
+"June 4, 2003",June,4,Finland,1,0,1
+"June 5, 2003",June,5,Finland,1,0,1
+"June 6, 2003",June,6,Finland,1,0,1
+"June 9, 2003",June,9,Finland,1,0,1
+"June 10, 2003",June,10,Finland,1,0,1
+"June 11, 2003",June,11,Finland,1,0,1
+"June 12, 2003",June,12,Finland,1,0,1
+"June 13, 2003",June,13,Finland,1,0,1
+"June 16, 2003",June,16,Finland,1,0,1
+"June 17, 2003",June,17,Finland,1,0,1
+"June 18, 2003",June,18,Finland,1,0,1
+"June 19, 2003",June,19,Finland,1,0,1
+"June 20, 2003",June,20,Finland,1,0,1
+"June 23, 2003",June,23,Finland,1,0,1
+"June 24, 2003",June,24,Finland,1,0,1
+"June 25, 2003",June,25,Finland,1,0,1
+"June 26, 2003",June,26,Finland,1,0,1
+"June 27, 2003",June,27,Finland,1,0,1
+"June 30, 2003",June,30,Finland,1,0,1
+"July 1, 2003",July,1,Finland,1,0,1
+"July 2, 2003",July,2,Finland,1,0,1
+"July 3, 2003",July,3,Finland,1,0,1
+"July 4, 2003",July,4,Finland,1,0,1
+"July 7, 2003",July,7,Finland,1,0,1
+"July 8, 2003",July,8,Finland,1,0,1
+"July 9, 2003",July,9,Finland,1,0,1
+"July 10, 2003",July,10,Finland,1,0,1
+"July 11, 2003",July,11,Finland,1,0,1
+"March 24, 2003",March,24,France,1,0,0
+"March 25, 2003",March,25,France,1,0,0
+"March 26, 2003",March,26,France,1,0,0
+"March 27, 2003",March,27,France,1,0,0
+"March 28, 2003",March,28,France,1,0,0
+"March 29, 2003",March,29,France,1,0,0
+"March 31, 2003",March,31,France,1,0,0
+"April 1, 2003",April,1,France,1,0,0
+"April 2, 2003",April,2,France,1,0,0
+"April 3, 2003",April,3,France,3,0,0
+"April 4, 2003",April,4,France,3,0,0
+"April 5, 2003",April,5,France,3,0,0
+"April 7, 2003",April,7,France,3,0,0
+"April 8, 2003",April,8,France,4,0,0
+"April 9, 2003",April,9,France,4,0,0
+"April 10, 2003",April,10,France,4,0,0
+"April 11, 2003",April,11,France,5,0,0
+"April 12, 2003",April,12,France,5,0,1
+"April 14, 2003",April,14,France,5,0,1
+"April 15, 2003",April,15,France,5,0,1
+"April 16, 2003",April,16,France,5,0,1
+"April 17, 2003",April,17,France,5,0,1
+"April 18, 2003",April,18,France,5,0,1
+"April 19, 2003",April,19,France,5,0,1
+"April 21, 2003",April,21,France,5,0,1
+"April 22, 2003",April,22,France,5,0,1
+"April 23, 2003",April,23,France,5,0,1
+"April 24, 2003",April,24,France,5,0,1
+"April 25, 2003",April,25,France,5,0,1
+"April 26, 2003",April,26,France,5,0,1
+"April 28, 2003",April,28,France,5,0,1
+"April 29, 2003",April,29,France,5,0,1
+"April 30, 2003",April,30,France,5,0,1
+"May 1, 2003",May,1,France,5,0,1
+"May 2, 2003",May,2,France,5,0,4
+"May 3, 2003",May,3,France,5,0,4
+"May 5, 2003",May,5,France,5,0,4
+"May 6, 2003",May,6,France,5,0,4
+"May 7, 2003",May,7,France,6,0,4
+"May 8, 2003",May,8,France,6,0,4
+"May 9, 2003",May,9,France,6,0,4
+"May 10, 2003",May,10,France,7,0,4
+"May 12, 2003",May,12,France,7,0,4
+"May 13, 2003",May,13,France,7,0,4
+"May 14, 2003",May,14,France,7,0,4
+"May 15, 2003",May,15,France,7,0,4
+"May 16, 2003",May,16,France,7,0,4
+"May 17, 2003",May,17,France,7,0,6
+"May 19, 2003",May,19,France,7,0,6
+"May 20, 2003",May,20,France,7,0,6
+"May 21, 2003",May,21,France,7,0,6
+"May 22, 2003",May,22,France,7,0,6
+"May 23, 2003",May,23,France,7,0,6
+"May 24, 2003",May,24,France,7,0,6
+"May 26, 2003",May,26,France,7,0,6
+"May 27, 2003",May,27,France,7,0,6
+"May 28, 2003",May,28,France,7,0,6
+"May 29, 2003",May,29,France,7,0,6
+"May 30, 2003",May,30,France,7,0,6
+"May 31, 2003",May,31,France,7,0,6
+"June 2, 2003",June,2,France,7,0,6
+"June 3, 2003",June,3,France,7,0,6
+"June 4, 2003",June,4,France,7,0,6
+"June 5, 2003",June,5,France,7,0,6
+"June 6, 2003",June,6,France,7,0,6
+"June 9, 2003",June,9,France,7,0,6
+"June 10, 2003",June,10,France,7,0,6
+"June 11, 2003",June,11,France,7,0,6
+"June 12, 2003",June,12,France,7,0,6
+"June 13, 2003",June,13,France,7,0,6
+"June 16, 2003",June,16,France,7,0,6
+"June 17, 2003",June,17,France,7,0,6
+"June 18, 2003",June,18,France,7,0,6
+"June 19, 2003",June,19,France,7,0,6
+"June 20, 2003",June,20,France,7,0,6
+"June 23, 2003",June,23,France,7,0,6
+"June 24, 2003",June,24,France,7,0,6
+"June 25, 2003",June,25,France,7,0,6
+"June 26, 2003",June,26,France,7,0,6
+"June 27, 2003",June,27,France,7,0,6
+"June 30, 2003",June,30,France,7,0,6
+"July 1, 2003",July,1,France,7,0,6
+"July 2, 2003",July,2,France,7,0,6
+"July 3, 2003",July,3,France,7,0,6
+"July 4, 2003",July,4,France,7,0,6
+"July 7, 2003",July,7,France,7,0,6
+"July 8, 2003",July,8,France,7,0,6
+"July 9, 2003",July,9,France,7,0,6
+"July 10, 2003",July,10,France,7,0,6
+"July 11, 2003",July,11,France,7,1,6
+"March 17, 2003",March,17,Germany,1,0,0
+"March 18, 2003",March,18,Germany,2,0,0
+"March 19, 2003",March,19,Germany,1,0,0
+"March 20, 2003",March,20,Germany,1,0,0
+"March 21, 2003",March,21,Germany,1,0,0
+"March 22, 2003",March,22,Germany,2,0,0
+"March 24, 2003",March,24,Germany,4,0,0
+"March 25, 2003",March,25,Germany,4,0,0
+"March 26, 2003",March,26,Germany,4,0,0
+"March 27, 2003",March,27,Germany,4,0,0
+"March 28, 2003",March,28,Germany,4,0,0
+"March 29, 2003",March,29,Germany,4,0,0
+"March 31, 2003",March,31,Germany,5,0,0
+"April 1, 2003",April,1,Germany,5,0,0
+"April 2, 2003",April,2,Germany,5,0,0
+"April 3, 2003",April,3,Germany,5,0,0
+"April 4, 2003",April,4,Germany,5,0,0
+"April 5, 2003",April,5,Germany,5,0,0
+"April 7, 2003",April,7,Germany,5,0,0
+"April 8, 2003",April,8,Germany,5,0,0
+"April 9, 2003",April,9,Germany,5,0,0
+"April 10, 2003",April,10,Germany,6,0,2
+"April 11, 2003",April,11,Germany,6,0,4
+"April 12, 2003",April,12,Germany,6,0,4
+"April 14, 2003",April,14,Germany,6,0,4
+"April 15, 2003",April,15,Germany,6,0,4
+"April 16, 2003",April,16,Germany,6,0,4
+"April 17, 2003",April,17,Germany,6,0,4
+"April 18, 2003",April,18,Germany,6,0,4
+"April 19, 2003",April,19,Germany,6,0,4
+"April 21, 2003",April,21,Germany,6,0,4
+"April 22, 2003",April,22,Germany,7,0,6
+"April 23, 2003",April,23,Germany,7,0,6
+"April 24, 2003",April,24,Germany,7,0,6
+"April 25, 2003",April,25,Germany,7,0,6
+"April 26, 2003",April,26,Germany,7,0,6
+"April 28, 2003",April,28,Germany,7,0,6
+"April 29, 2003",April,29,Germany,7,0,6
+"April 30, 2003",April,30,Germany,7,0,7
+"May 1, 2003",May,1,Germany,7,0,7
+"May 2, 2003",May,2,Germany,7,0,7
+"May 3, 2003",May,3,Germany,7,0,7
+"May 5, 2003",May,5,Germany,7,0,7
+"May 6, 2003",May,6,Germany,7,0,7
+"May 7, 2003",May,7,Germany,8,0,7
+"May 8, 2003",May,8,Germany,8,0,7
+"May 9, 2003",May,9,Germany,9,0,9
+"May 10, 2003",May,10,Germany,9,0,9
+"May 12, 2003",May,12,Germany,9,0,9
+"May 13, 2003",May,13,Germany,9,0,9
+"May 14, 2003",May,14,Germany,9,0,9
+"May 15, 2003",May,15,Germany,9,0,9
+"May 16, 2003",May,16,Germany,9,0,9
+"May 17, 2003",May,17,Germany,9,0,9
+"May 19, 2003",May,19,Germany,9,0,9
+"May 20, 2003",May,20,Germany,9,0,9
+"May 21, 2003",May,21,Germany,9,0,9
+"May 22, 2003",May,22,Germany,9,0,9
+"May 23, 2003",May,23,Germany,9,0,9
+"May 24, 2003",May,24,Germany,9,0,9
+"May 26, 2003",May,26,Germany,9,0,9
+"May 27, 2003",May,27,Germany,9,0,9
+"May 28, 2003",May,28,Germany,9,0,9
+"May 29, 2003",May,29,Germany,9,0,9
+"May 30, 2003",May,30,Germany,9,0,9
+"May 31, 2003",May,31,Germany,10,0,9
+"June 2, 2003",June,2,Germany,10,0,9
+"June 3, 2003",June,3,Germany,10,0,9
+"June 4, 2003",June,4,Germany,10,0,9
+"June 5, 2003",June,5,Germany,10,0,9
+"June 6, 2003",June,6,Germany,10,0,9
+"June 9, 2003",June,9,Germany,10,0,9
+"June 10, 2003",June,10,Germany,10,0,9
+"June 11, 2003",June,11,Germany,10,0,9
+"June 12, 2003",June,12,Germany,10,0,9
+"June 13, 2003",June,13,Germany,10,0,9
+"June 16, 2003",June,16,Germany,10,0,9
+"June 17, 2003",June,17,Germany,10,0,9
+"June 18, 2003",June,18,Germany,10,0,9
+"June 19, 2003",June,19,Germany,10,0,9
+"June 20, 2003",June,20,Germany,10,0,9
+"June 23, 2003",June,23,Germany,10,0,9
+"June 24, 2003",June,24,Germany,10,0,9
+"June 25, 2003",June,25,Germany,10,0,9
+"June 26, 2003",June,26,Germany,10,0,9
+"June 27, 2003",June,27,Germany,10,0,9
+"June 30, 2003",June,30,Germany,10,0,9
+"July 1, 2003",July,1,Germany,10,0,9
+"July 2, 2003",July,2,Germany,10,0,9
+"July 3, 2003",July,3,Germany,10,0,9
+"July 4, 2003",July,4,Germany,10,0,9
+"July 7, 2003",July,7,Germany,10,0,9
+"July 8, 2003",July,8,Germany,10,0,9
+"July 9, 2003",July,9,Germany,10,0,9
+"July 10, 2003",July,10,Germany,10,0,9
+"July 11, 2003",July,11,Germany,10,0,9
+"March 17, 2003",March,17,"Hong Kong SAR, China",95,1,0
+"March 18, 2003",March,18,"Hong Kong SAR, China",123,1,0
+"March 19, 2003",March,19,"Hong Kong SAR, China",150,5,0
+"March 20, 2003",March,20,"Hong Kong SAR, China",173,6,0
+"March 21, 2003",March,21,"Hong Kong SAR, China",203,6,0
+"March 22, 2003",March,22,"Hong Kong SAR, China",222,7,0
+"March 24, 2003",March,24,"Hong Kong SAR, China",260,10,0
+"March 25, 2003",March,25,"Hong Kong SAR, China",286,10,0
+"March 26, 2003",March,26,"Hong Kong SAR, China",316,10,0
+"March 27, 2003",March,27,"Hong Kong SAR, China",367,10,0
+"March 28, 2003",March,28,"Hong Kong SAR, China",425,10,0
+"March 29, 2003",March,29,"Hong Kong SAR, China",470,10,0
+"March 31, 2003",March,31,"Hong Kong SAR, China",530,13,0
+"April 1, 2003",April,1,"Hong Kong SAR, China",685,16,0
+"April 2, 2003",April,2,"Hong Kong SAR, China",708,16,0
+"April 3, 2003",April,3,"Hong Kong SAR, China",734,17,0
+"April 4, 2003",April,4,"Hong Kong SAR, China",761,17,0
+"April 5, 2003",April,5,"Hong Kong SAR, China",800,20,0
+"April 7, 2003",April,7,"Hong Kong SAR, China",883,23,0
+"April 8, 2003",April,8,"Hong Kong SAR, China",928,25,0
+"April 9, 2003",April,9,"Hong Kong SAR, China",970,27,0
+"April 10, 2003",April,10,"Hong Kong SAR, China",998,30,154
+"April 11, 2003",April,11,"Hong Kong SAR, China",1059,32,169
+"April 12, 2003",April,12,"Hong Kong SAR, China",1108,35,215
+"April 14, 2003",April,14,"Hong Kong SAR, China",1190,47,229
+"April 15, 2003",April,15,"Hong Kong SAR, China",1232,56,243
+"April 16, 2003",April,16,"Hong Kong SAR, China",1268,61,257
+"April 17, 2003",April,17,"Hong Kong SAR, China",1297,65,272
+"April 18, 2003",April,18,"Hong Kong SAR, China",1358,81,363
+"April 19, 2003",April,19,"Hong Kong SAR, China",1358,81,363
+"April 21, 2003",April,21,"Hong Kong SAR, China",1402,94,436
+"April 22, 2003",April,22,"Hong Kong SAR, China",1434,99,461
+"April 23, 2003",April,23,"Hong Kong SAR, China",1458,105,522
+"April 24, 2003",April,24,"Hong Kong SAR, China",1488,109,567
+"April 25, 2003",April,25,"Hong Kong SAR, China",1510,115,614
+"April 26, 2003",April,26,"Hong Kong SAR, China",1527,121,632
+"April 28, 2003",April,28,"Hong Kong SAR, China",1557,138,710
+"April 29, 2003",April,29,"Hong Kong SAR, China",1572,150,759
+"April 30, 2003",April,30,"Hong Kong SAR, China",1589,157,791
+"May 1, 2003",May,1,"Hong Kong SAR, China",1600,162,834
+"May 2, 2003",May,2,"Hong Kong SAR, China",1611,170,878
+"May 3, 2003",May,3,"Hong Kong SAR, China",1621,179,898
+"May 5, 2003",May,5,"Hong Kong SAR, China",1637,187,930
+"May 6, 2003",May,6,"Hong Kong SAR, China",1646,193,958
+"May 7, 2003",May,7,"Hong Kong SAR, China",1654,204,984
+"May 8, 2003",May,8,"Hong Kong SAR, China",1661,208,1008
+"May 9, 2003",May,9,"Hong Kong SAR, China",1667,210,1015
+"May 10, 2003",May,10,"Hong Kong SAR, China",1674,212,1035
+"May 12, 2003",May,12,"Hong Kong SAR, China",1683,218,1066
+"May 13, 2003",May,13,"Hong Kong SAR, China",1689,225,1090
+"May 14, 2003",May,14,"Hong Kong SAR, China",1698,227,1128
+"May 15, 2003",May,15,"Hong Kong SAR, China",1703,234,1160
+"May 16, 2003",May,16,"Hong Kong SAR, China",1706,238,1171
+"May 17, 2003",May,17,"Hong Kong SAR, China",1710,243,1191
+"May 19, 2003",May,19,"Hong Kong SAR, China",1714,251,1213
+"May 20, 2003",May,20,"Hong Kong SAR, China",1718,253,1229
+"May 21, 2003",May,21,"Hong Kong SAR, China",1719,255,1237
+"May 22, 2003",May,22,"Hong Kong SAR, China",1722,258,1247
+"May 23, 2003",May,23,"Hong Kong SAR, China",1724,260,1255
+"May 24, 2003",May,24,"Hong Kong SAR, China",1724,262,1266
+"May 26, 2003",May,26,"Hong Kong SAR, China",1726,267,1276
+"May 27, 2003",May,27,"Hong Kong SAR, China",1728,269,1285
+"May 28, 2003",May,28,"Hong Kong SAR, China",1730,270,1295
+"May 29, 2003",May,29,"Hong Kong SAR, China",1732,273,1302
+"May 30, 2003",May,30,"Hong Kong SAR, China",1736,274,1304
+"May 31, 2003",May,31,"Hong Kong SAR, China",1739,278,1310
+"June 2, 2003",June,2,"Hong Kong SAR, China",1746,282,1319
+"June 3, 2003",June,3,"Hong Kong SAR, China",1747,283,1326
+"June 4, 2003",June,4,"Hong Kong SAR, China",1748,283,1339
+"June 5, 2003",June,5,"Hong Kong SAR, China",1748,284,1343
+"June 6, 2003",June,6,"Hong Kong SAR, China",1750,286,1350
+"June 9, 2003",June,9,"Hong Kong SAR, China",1753,288,1365
+"June 10, 2003",June,10,"Hong Kong SAR, China",1754,290,1368
+"June 11, 2003",June,11,"Hong Kong SAR, China",1754,290,1368
+"June 12, 2003",June,12,"Hong Kong SAR, China",1755,291,1377
+"June 13, 2003",June,13,"Hong Kong SAR, China",1755,293,1380
+"June 16, 2003",June,16,"Hong Kong SAR, China",1755,295,1386
+"June 17, 2003",June,17,"Hong Kong SAR, China",1755,295,1387
+"June 18, 2003",June,18,"Hong Kong SAR, China",1755,295,1393
+"June 19, 2003",June,19,"Hong Kong SAR, China",1755,296,1396
+"June 20, 2003",June,20,"Hong Kong SAR, China",1755,296,1403
+"June 23, 2003",June,23,"Hong Kong SAR, China",1755,296,1411
+"June 24, 2003",June,24,"Hong Kong SAR, China",1755,296,1417
+"June 25, 2003",June,25,"Hong Kong SAR, China",1755,296,1419
+"June 26, 2003",June,26,"Hong Kong SAR, China",1755,296,1419
+"June 27, 2003",June,27,"Hong Kong SAR, China",1755,297,1422
+"June 30, 2003",June,30,"Hong Kong SAR, China",1755,298,1429
+"July 1, 2003",July,1,"Hong Kong SAR, China",1755,298,1429
+"July 2, 2003",July,2,"Hong Kong SAR, China",1755,298,1429
+"July 3, 2003",July,3,"Hong Kong SAR, China",1755,298,1429
+"July 4, 2003",July,4,"Hong Kong SAR, China",1755,298,1430
+"July 7, 2003",July,7,"Hong Kong SAR, China",1755,298,1430
+"July 8, 2003",July,8,"Hong Kong SAR, China",1755,298,1430
+"July 9, 2003",July,9,"Hong Kong SAR, China",1755,298,1431
+"July 10, 2003",July,10,"Hong Kong SAR, China",1755,298,1431
+"July 11, 2003",July,11,"Hong Kong SAR, China",1755,298,1433
+"April 17, 2003",April,17,India,1,0,0
+"April 18, 2003",April,18,India,1,0,1
+"April 19, 2003",April,19,India,1,0,1
+"April 21, 2003",April,21,India,1,0,1
+"April 22, 2003",April,22,India,1,0,1
+"April 23, 2003",April,23,India,1,0,1
+"April 24, 2003",April,24,India,1,0,1
+"April 25, 2003",April,25,India,1,0,1
+"April 26, 2003",April,26,India,1,0,1
+"April 28, 2003",April,28,India,1,0,1
+"April 29, 2003",April,29,India,1,0,1
+"May 6, 2003",May,6,India,1,0,0
+"May 7, 2003",May,7,India,1,0,0
+"May 8, 2003",May,8,India,1,0,0
+"May 9, 2003",May,9,India,1,0,0
+"May 10, 2003",May,10,India,1,0,0
+"May 12, 2003",May,12,India,1,0,0
+"May 13, 2003",May,13,India,3,0,0
+"May 14, 2003",May,14,India,3,0,0
+"May 15, 2003",May,15,India,3,0,3
+"May 16, 2003",May,16,India,3,0,3
+"May 17, 2003",May,17,India,3,0,3
+"May 19, 2003",May,19,India,3,0,3
+"May 20, 2003",May,20,India,3,0,3
+"May 21, 2003",May,21,India,3,0,3
+"May 22, 2003",May,22,India,3,0,3
+"May 23, 2003",May,23,India,3,0,3
+"May 24, 2003",May,24,India,3,0,3
+"May 26, 2003",May,26,India,3,0,3
+"May 27, 2003",May,27,India,3,0,3
+"May 28, 2003",May,28,India,3,0,3
+"May 29, 2003",May,29,India,3,0,3
+"May 30, 2003",May,30,India,3,0,3
+"May 31, 2003",May,31,India,3,0,3
+"June 2, 2003",June,2,India,3,0,3
+"June 3, 2003",June,3,India,3,0,3
+"June 4, 2003",June,4,India,3,0,3
+"June 5, 2003",June,5,India,3,0,3
+"June 6, 2003",June,6,India,3,0,3
+"June 9, 2003",June,9,India,3,0,3
+"June 10, 2003",June,10,India,3,0,3
+"June 11, 2003",June,11,India,3,0,3
+"June 12, 2003",June,12,India,3,0,3
+"June 13, 2003",June,13,India,3,0,3
+"June 16, 2003",June,16,India,3,0,3
+"June 17, 2003",June,17,India,3,0,3
+"June 18, 2003",June,18,India,3,0,3
+"June 19, 2003",June,19,India,3,0,3
+"June 20, 2003",June,20,India,3,0,3
+"June 23, 2003",June,23,India,3,0,3
+"June 24, 2003",June,24,India,3,0,3
+"June 25, 2003",June,25,India,3,0,3
+"June 26, 2003",June,26,India,3,0,3
+"June 27, 2003",June,27,India,3,0,3
+"June 30, 2003",June,30,India,3,0,3
+"July 1, 2003",July,1,India,3,0,3
+"July 2, 2003",July,2,India,3,0,3
+"July 3, 2003",July,3,India,3,0,3
+"July 4, 2003",July,4,India,3,0,3
+"July 7, 2003",July,7,India,3,0,3
+"July 8, 2003",July,8,India,3,0,3
+"July 9, 2003",July,9,India,3,0,3
+"July 10, 2003",July,10,India,3,0,3
+"July 11, 2003",July,11,India,3,0,3
+"April 14, 2003",April,14,Indonesia,1,0,0
+"April 15, 2003",April,15,Indonesia,1,0,0
+"April 16, 2003",April,16,Indonesia,1,0,0
+"April 17, 2003",April,17,Indonesia,1,0,0
+"April 18, 2003",April,18,Indonesia,1,0,0
+"April 19, 2003",April,19,Indonesia,1,0,0
+"April 21, 2003",April,21,Indonesia,1,0,0
+"April 22, 2003",April,22,Indonesia,1,0,0
+"April 23, 2003",April,23,Indonesia,1,0,0
+"April 24, 2003",April,24,Indonesia,1,0,1
+"April 25, 2003",April,25,Indonesia,1,0,1
+"April 26, 2003",April,26,Indonesia,1,0,1
+"April 28, 2003",April,28,Indonesia,1,0,1
+"April 29, 2003",April,29,Indonesia,1,0,1
+"April 30, 2003",April,30,Indonesia,2,0,1
+"May 1, 2003",May,1,Indonesia,2,0,1
+"May 2, 2003",May,2,Indonesia,2,0,1
+"May 3, 2003",May,3,Indonesia,2,0,1
+"May 5, 2003",May,5,Indonesia,2,0,1
+"May 6, 2003",May,6,Indonesia,2,0,1
+"May 7, 2003",May,7,Indonesia,2,0,1
+"May 8, 2003",May,8,Indonesia,2,0,1
+"May 9, 2003",May,9,Indonesia,2,0,1
+"May 10, 2003",May,10,Indonesia,2,0,1
+"May 12, 2003",May,12,Indonesia,2,0,1
+"May 13, 2003",May,13,Indonesia,2,0,1
+"May 14, 2003",May,14,Indonesia,2,0,2
+"May 15, 2003",May,15,Indonesia,2,0,2
+"May 16, 2003",May,16,Indonesia,2,0,2
+"May 17, 2003",May,17,Indonesia,2,0,2
+"May 19, 2003",May,19,Indonesia,2,0,2
+"May 20, 2003",May,20,Indonesia,2,0,2
+"May 21, 2003",May,21,Indonesia,2,0,2
+"May 22, 2003",May,22,Indonesia,2,0,2
+"May 23, 2003",May,23,Indonesia,2,0,2
+"May 24, 2003",May,24,Indonesia,2,0,2
+"May 26, 2003",May,26,Indonesia,2,0,2
+"May 27, 2003",May,27,Indonesia,2,0,2
+"May 28, 2003",May,28,Indonesia,2,0,2
+"May 29, 2003",May,29,Indonesia,2,0,2
+"May 30, 2003",May,30,Indonesia,2,0,2
+"May 31, 2003",May,31,Indonesia,2,0,2
+"June 2, 2003",June,2,Indonesia,2,0,2
+"June 3, 2003",June,3,Indonesia,2,0,2
+"June 4, 2003",June,4,Indonesia,2,0,2
+"June 5, 2003",June,5,Indonesia,2,0,2
+"June 6, 2003",June,6,Indonesia,2,0,2
+"June 9, 2003",June,9,Indonesia,2,0,2
+"June 10, 2003",June,10,Indonesia,2,0,2
+"June 11, 2003",June,11,Indonesia,2,0,2
+"June 12, 2003",June,12,Indonesia,2,0,2
+"June 13, 2003",June,13,Indonesia,2,0,2
+"June 16, 2003",June,16,Indonesia,2,0,2
+"June 17, 2003",June,17,Indonesia,2,0,2
+"June 18, 2003",June,18,Indonesia,2,0,2
+"June 19, 2003",June,19,Indonesia,2,0,2
+"June 20, 2003",June,20,Indonesia,2,0,2
+"June 23, 2003",June,23,Indonesia,2,0,2
+"June 24, 2003",June,24,Indonesia,2,0,2
+"June 25, 2003",June,25,Indonesia,2,0,2
+"June 26, 2003",June,26,Indonesia,2,0,2
+"June 27, 2003",June,27,Indonesia,2,0,2
+"June 30, 2003",June,30,Indonesia,2,0,2
+"July 1, 2003",July,1,Indonesia,2,0,2
+"July 2, 2003",July,2,Indonesia,2,0,2
+"July 3, 2003",July,3,Indonesia,2,0,2
+"July 4, 2003",July,4,Indonesia,2,0,2
+"July 7, 2003",July,7,Indonesia,2,0,2
+"July 8, 2003",July,8,Indonesia,2,0,2
+"July 9, 2003",July,9,Indonesia,2,0,2
+"July 10, 2003",July,10,Indonesia,2,0,2
+"July 11, 2003",July,11,Indonesia,2,0,2
+"March 21, 2003",March,21,Italy,1,0,0
+"March 22, 2003",March,22,Italy,2,0,0
+"March 24, 2003",March,24,Italy,2,0,0
+"March 25, 2003",March,25,Italy,2,0,0
+"March 26, 2003",March,26,Italy,3,0,0
+"March 27, 2003",March,27,Italy,2,0,0
+"March 28, 2003",March,28,Italy,2,0,0
+"March 29, 2003",March,29,Italy,2,0,0
+"March 31, 2003",March,31,Italy,2,0,0
+"April 1, 2003",April,1,Italy,3,0,0
+"April 2, 2003",April,2,Italy,3,0,0
+"April 3, 2003",April,3,Italy,3,0,0
+"April 4, 2003",April,4,Italy,3,0,0
+"April 5, 2003",April,5,Italy,3,0,0
+"April 7, 2003",April,7,Italy,3,0,0
+"April 8, 2003",April,8,Italy,3,0,0
+"April 9, 2003",April,9,Italy,3,0,0
+"April 10, 2003",April,10,Italy,3,0,1
+"April 11, 2003",April,11,Italy,3,0,2
+"April 12, 2003",April,12,Italy,3,0,2
+"April 14, 2003",April,14,Italy,3,0,2
+"April 15, 2003",April,15,Italy,3,0,2
+"April 16, 2003",April,16,Italy,3,0,2
+"April 17, 2003",April,17,Italy,3,0,2
+"April 18, 2003",April,18,Italy,3,0,2
+"April 19, 2003",April,19,Italy,3,0,2
+"April 21, 2003",April,21,Italy,3,0,2
+"April 22, 2003",April,22,Italy,3,0,2
+"April 23, 2003",April,23,Italy,3,0,2
+"April 24, 2003",April,24,Italy,4,0,3
+"April 25, 2003",April,25,Italy,4,0,3
+"April 26, 2003",April,26,Italy,4,0,3
+"April 28, 2003",April,28,Italy,8,0,3
+"April 29, 2003",April,29,Italy,9,0,4
+"April 30, 2003",April,30,Italy,9,0,4
+"May 1, 2003",May,1,Italy,9,0,4
+"May 2, 2003",May,2,Italy,9,0,4
+"May 3, 2003",May,3,Italy,9,0,4
+"May 5, 2003",May,5,Italy,9,0,4
+"May 6, 2003",May,6,Italy,9,0,4
+"May 7, 2003",May,7,Italy,9,0,5
+"May 8, 2003",May,8,Italy,9,0,6
+"May 9, 2003",May,9,Italy,9,0,9
+"May 10, 2003",May,10,Italy,9,0,9
+"May 12, 2003",May,12,Italy,9,0,8
+"May 13, 2003",May,13,Italy,9,0,9
+"May 14, 2003",May,14,Italy,9,0,9
+"May 15, 2003",May,15,Italy,9,0,9
+"May 16, 2003",May,16,Italy,9,0,9
+"May 17, 2003",May,17,Italy,9,0,9
+"May 19, 2003",May,19,Italy,9,0,9
+"May 20, 2003",May,20,Italy,9,0,9
+"May 21, 2003",May,21,Italy,9,0,9
+"May 22, 2003",May,22,Italy,9,0,9
+"May 23, 2003",May,23,Italy,9,0,9
+"May 24, 2003",May,24,Italy,9,0,9
+"May 26, 2003",May,26,Italy,9,0,9
+"May 27, 2003",May,27,Italy,9,0,9
+"May 28, 2003",May,28,Italy,9,0,9
+"May 29, 2003",May,29,Italy,9,0,9
+"May 30, 2003",May,30,Italy,9,0,9
+"May 31, 2003",May,31,Italy,9,0,9
+"June 2, 2003",June,2,Italy,9,0,9
+"June 3, 2003",June,3,Italy,9,0,9
+"June 4, 2003",June,4,Italy,9,0,9
+"June 5, 2003",June,5,Italy,9,0,9
+"June 6, 2003",June,6,Italy,9,0,9
+"June 9, 2003",June,9,Italy,9,0,9
+"June 10, 2003",June,10,Italy,9,0,9
+"June 11, 2003",June,11,Italy,9,0,9
+"June 12, 2003",June,12,Italy,9,0,9
+"June 13, 2003",June,13,Italy,9,0,9
+"June 16, 2003",June,16,Italy,9,0,9
+"June 17, 2003",June,17,Italy,9,0,9
+"June 18, 2003",June,18,Italy,9,0,9
+"June 19, 2003",June,19,Italy,9,0,9
+"June 20, 2003",June,20,Italy,9,0,9
+"June 23, 2003",June,23,Italy,9,0,9
+"June 24, 2003",June,24,Italy,9,0,9
+"June 25, 2003",June,25,Italy,9,0,9
+"June 26, 2003",June,26,Italy,9,0,9
+"June 27, 2003",June,27,Italy,5,0,5
+"June 30, 2003",June,30,Italy,5,0,5
+"July 1, 2003",July,1,Italy,5,0,5
+"July 2, 2003",July,2,Italy,4,0,4
+"July 3, 2003",July,3,Italy,4,0,4
+"July 4, 2003",July,4,Italy,4,0,4
+"July 7, 2003",July,7,Italy,4,0,4
+"July 8, 2003",July,8,Italy,4,0,4
+"July 9, 2003",July,9,Italy,4,0,4
+"July 10, 2003",July,10,Italy,4,0,4
+"July 11, 2003",July,11,Italy,4,0,4
+"April 11, 2003",April,11,Japan,4,0,0
+"April 12, 2003",April,12,Japan,4,0,0
+"April 15, 2003",April,15,Japan,1,0,0
+"April 16, 2003",April,16,Japan,1,0,0
+"April 17, 2003",April,17,Japan,2,0,0
+"April 18, 2003",April,18,Japan,4,0,0
+"April 19, 2003",April,19,Japan,4,0,0
+"April 21, 2003",April,21,Japan,5,0,0
+"April 22, 2003",April,22,Japan,2,0,0
+"April 23, 2003",April,23,Japan,2,0,0
+"April 24, 2003",April,24,Japan,2,0,0
+"April 25, 2003",April,25,Japan,2,0,0
+"April 26, 2003",April,26,Japan,2,0,0
+"April 28, 2003",April,28,Japan,2,0,0
+"April 29, 2003",April,29,Japan,2,0,0
+"April 30, 2003",April,30,Japan,2,0,0
+"May 1, 2003",May,1,Japan,2,0,0
+"June 25, 2003",June,25,Japan,1,0,0
+"June 26, 2003",June,26,Japan,1,0,0
+"April 10, 2003",April,10,Kuwait,1,0,0
+"April 11, 2003",April,11,Kuwait,1,0,0
+"April 12, 2003",April,12,Kuwait,1,0,0
+"April 14, 2003",April,14,Kuwait,1,0,0
+"April 15, 2003",April,15,Kuwait,1,0,0
+"April 16, 2003",April,16,Kuwait,1,0,0
+"April 17, 2003",April,17,Kuwait,1,0,0
+"April 18, 2003",April,18,Kuwait,1,0,0
+"April 19, 2003",April,19,Kuwait,1,0,0
+"April 21, 2003",April,21,Kuwait,1,0,1
+"April 22, 2003",April,22,Kuwait,1,0,1
+"April 23, 2003",April,23,Kuwait,1,0,1
+"April 24, 2003",April,24,Kuwait,1,0,1
+"April 25, 2003",April,25,Kuwait,1,0,1
+"April 26, 2003",April,26,Kuwait,1,0,1
+"April 28, 2003",April,28,Kuwait,1,0,1
+"April 29, 2003",April,29,Kuwait,1,0,1
+"April 30, 2003",April,30,Kuwait,1,0,1
+"May 1, 2003",May,1,Kuwait,1,0,1
+"May 2, 2003",May,2,Kuwait,1,0,1
+"May 3, 2003",May,3,Kuwait,1,0,1
+"May 5, 2003",May,5,Kuwait,1,0,1
+"May 6, 2003",May,6,Kuwait,1,0,1
+"May 7, 2003",May,7,Kuwait,1,0,1
+"May 8, 2003",May,8,Kuwait,1,0,1
+"May 9, 2003",May,9,Kuwait,1,0,1
+"May 10, 2003",May,10,Kuwait,1,0,1
+"May 12, 2003",May,12,Kuwait,1,0,1
+"May 13, 2003",May,13,Kuwait,1,0,1
+"May 14, 2003",May,14,Kuwait,1,0,1
+"May 15, 2003",May,15,Kuwait,1,0,1
+"May 16, 2003",May,16,Kuwait,1,0,1
+"May 17, 2003",May,17,Kuwait,1,0,1
+"May 19, 2003",May,19,Kuwait,1,0,1
+"May 20, 2003",May,20,Kuwait,1,0,1
+"May 21, 2003",May,21,Kuwait,1,0,1
+"May 22, 2003",May,22,Kuwait,1,0,1
+"May 23, 2003",May,23,Kuwait,1,0,1
+"May 24, 2003",May,24,Kuwait,1,0,1
+"May 26, 2003",May,26,Kuwait,1,0,1
+"May 27, 2003",May,27,Kuwait,1,0,1
+"May 28, 2003",May,28,Kuwait,1,0,1
+"May 29, 2003",May,29,Kuwait,1,0,1
+"May 30, 2003",May,30,Kuwait,1,0,1
+"May 31, 2003",May,31,Kuwait,1,0,1
+"June 2, 2003",June,2,Kuwait,1,0,1
+"June 3, 2003",June,3,Kuwait,1,0,1
+"June 4, 2003",June,4,Kuwait,1,0,1
+"June 5, 2003",June,5,Kuwait,1,0,1
+"June 6, 2003",June,6,Kuwait,1,0,1
+"June 9, 2003",June,9,Kuwait,1,0,1
+"June 10, 2003",June,10,Kuwait,1,0,1
+"June 11, 2003",June,11,Kuwait,1,0,1
+"June 12, 2003",June,12,Kuwait,1,0,1
+"June 13, 2003",June,13,Kuwait,1,0,1
+"June 16, 2003",June,16,Kuwait,1,0,1
+"June 17, 2003",June,17,Kuwait,1,0,1
+"June 18, 2003",June,18,Kuwait,1,0,1
+"June 19, 2003",June,19,Kuwait,1,0,1
+"June 20, 2003",June,20,Kuwait,1,0,1
+"June 23, 2003",June,23,Kuwait,1,0,1
+"June 24, 2003",June,24,Kuwait,1,0,1
+"June 25, 2003",June,25,Kuwait,1,0,1
+"June 26, 2003",June,26,Kuwait,1,0,1
+"June 27, 2003",June,27,Kuwait,1,0,1
+"June 30, 2003",June,30,Kuwait,1,0,1
+"July 1, 2003",July,1,Kuwait,1,0,1
+"July 2, 2003",July,2,Kuwait,1,0,1
+"July 3, 2003",July,3,Kuwait,1,0,1
+"July 4, 2003",July,4,Kuwait,1,0,1
+"July 7, 2003",July,7,Kuwait,1,0,1
+"July 8, 2003",July,8,Kuwait,1,0,1
+"July 9, 2003",July,9,Kuwait,1,0,1
+"July 10, 2003",July,10,Kuwait,1,0,1
+"July 11, 2003",July,11,Kuwait,1,0,1
+"April 30, 2003",April,30,"Macao SAR, China",1,0,0
+"May 1, 2003",May,1,"Macao SAR, China",1,0,0
+"May 2, 2003",May,2,"Macao SAR, China",1,0,0
+"May 3, 2003",May,3,"Macao SAR, China",1,0,0
+"May 5, 2003",May,5,"Macao SAR, China",1,0,0
+"May 6, 2003",May,6,"Macao SAR, China",1,0,0
+"May 7, 2003",May,7,"Macao SAR, China",1,0,0
+"May 8, 2003",May,8,"Macao SAR, China",1,0,0
+"May 9, 2003",May,9,"Macao SAR, China",1,0,0
+"May 10, 2003",May,10,"Macao SAR, China",1,0,0
+"May 12, 2003",May,12,"Macao SAR, China",1,0,0
+"May 13, 2003",May,13,"Macao SAR, China",1,0,0
+"May 14, 2003",May,14,"Macao SAR, China",1,0,0
+"May 15, 2003",May,15,"Macao SAR, China",1,0,0
+"May 16, 2003",May,16,"Macao SAR, China",1,0,0
+"May 17, 2003",May,17,"Macao SAR, China",1,0,0
+"May 19, 2003",May,19,"Macao SAR, China",1,0,0
+"May 20, 2003",May,20,"Macao SAR, China",1,0,0
+"May 21, 2003",May,21,"Macao SAR, China",1,0,0
+"May 22, 2003",May,22,"Macao SAR, China",2,0,0
+"May 23, 2003",May,23,"Macao SAR, China",2,0,0
+"May 24, 2003",May,24,"Macao SAR, China",2,0,0
+"May 26, 2003",May,26,"Macao SAR, China",2,0,0
+"May 27, 2003",May,27,"Macao SAR, China",2,0,0
+"May 28, 2003",May,28,"Macao SAR, China",2,0,0
+"May 29, 2003",May,29,"Macao SAR, China",1,0,0
+"May 30, 2003",May,30,"Macao SAR, China",1,0,0
+"May 31, 2003",May,31,"Macao SAR, China",1,0,0
+"June 2, 2003",June,2,"Macao SAR, China",1,0,1
+"June 3, 2003",June,3,"Macao SAR, China",1,0,1
+"June 4, 2003",June,4,"Macao SAR, China",1,0,1
+"June 5, 2003",June,5,"Macao SAR, China",1,0,1
+"June 6, 2003",June,6,"Macao SAR, China",1,0,1
+"June 9, 2003",June,9,"Macao SAR, China",1,0,1
+"June 10, 2003",June,10,"Macao SAR, China",1,0,1
+"June 11, 2003",June,11,"Macao SAR, China",1,0,1
+"June 12, 2003",June,12,"Macao SAR, China",1,0,1
+"June 13, 2003",June,13,"Macao SAR, China",1,0,1
+"June 16, 2003",June,16,"Macao SAR, China",1,0,1
+"June 17, 2003",June,17,"Macao SAR, China",1,0,1
+"June 18, 2003",June,18,"Macao SAR, China",1,0,1
+"June 19, 2003",June,19,"Macao SAR, China",1,0,1
+"June 20, 2003",June,20,"Macao SAR, China",1,0,1
+"June 23, 2003",June,23,"Macao SAR, China",1,0,1
+"June 24, 2003",June,24,"Macao SAR, China",1,0,1
+"June 25, 2003",June,25,"Macao SAR, China",1,0,1
+"June 26, 2003",June,26,"Macao SAR, China",1,0,1
+"June 27, 2003",June,27,"Macao SAR, China",1,0,1
+"June 30, 2003",June,30,"Macao SAR, China",1,0,1
+"July 1, 2003",July,1,"Macao SAR, China",1,0,1
+"July 2, 2003",July,2,"Macao SAR, China",1,0,1
+"July 3, 2003",July,3,"Macao SAR, China",1,0,1
+"July 4, 2003",July,4,"Macao SAR, China",1,0,1
+"July 7, 2003",July,7,"Macao SAR, China",1,0,1
+"July 8, 2003",July,8,"Macao SAR, China",1,0,1
+"July 9, 2003",July,9,"Macao SAR, China",1,0,1
+"July 10, 2003",July,10,"Macao SAR, China",1,0,1
+"July 11, 2003",July,11,"Macao SAR, China",1,0,1
+"April 5, 2003",April,5,Malaysia,1,1,0
+"April 7, 2003",April,7,Malaysia,1,1,0
+"April 8, 2003",April,8,Malaysia,1,1,0
+"April 9, 2003",April,9,Malaysia,1,1,0
+"April 10, 2003",April,10,Malaysia,3,1,0
+"April 11, 2003",April,11,Malaysia,4,1,0
+"April 12, 2003",April,12,Malaysia,4,1,0
+"April 14, 2003",April,14,Malaysia,4,1,0
+"April 15, 2003",April,15,Malaysia,4,1,0
+"April 16, 2003",April,16,Malaysia,5,1,0
+"April 17, 2003",April,17,Malaysia,5,1,0
+"April 18, 2003",April,18,Malaysia,5,1,0
+"April 19, 2003",April,19,Malaysia,5,1,0
+"April 21, 2003",April,21,Malaysia,6,1,0
+"April 22, 2003",April,22,Malaysia,6,1,0
+"April 23, 2003",April,23,Malaysia,5,2,2
+"April 24, 2003",April,24,Malaysia,5,2,2
+"April 25, 2003",April,25,Malaysia,5,2,2
+"April 26, 2003",April,26,Malaysia,5,2,2
+"April 28, 2003",April,28,Malaysia,6,2,2
+"April 29, 2003",April,29,Malaysia,6,2,3
+"April 30, 2003",April,30,Malaysia,6,2,3
+"May 1, 2003",May,1,Malaysia,6,2,3
+"May 2, 2003",May,2,Malaysia,6,2,3
+"May 3, 2003",May,3,Malaysia,6,2,3
+"May 5, 2003",May,5,Malaysia,7,2,4
+"May 6, 2003",May,6,Malaysia,7,2,4
+"May 7, 2003",May,7,Malaysia,7,2,4
+"May 8, 2003",May,8,Malaysia,7,2,4
+"May 9, 2003",May,9,Malaysia,6,2,4
+"May 10, 2003",May,10,Malaysia,7,2,4
+"May 12, 2003",May,12,Malaysia,7,2,4
+"May 13, 2003",May,13,Malaysia,7,2,4
+"May 14, 2003",May,14,Malaysia,7,2,5
+"May 15, 2003",May,15,Malaysia,7,2,5
+"May 16, 2003",May,16,Malaysia,7,2,5
+"May 17, 2003",May,17,Malaysia,7,2,5
+"May 19, 2003",May,19,Malaysia,7,2,5
+"May 20, 2003",May,20,Malaysia,7,2,5
+"May 21, 2003",May,21,Malaysia,8,2,5
+"May 22, 2003",May,22,Malaysia,8,2,5
+"May 23, 2003",May,23,Malaysia,8,2,5
+"May 24, 2003",May,24,Malaysia,8,2,5
+"May 26, 2003",May,26,Malaysia,5,2,3
+"May 27, 2003",May,27,Malaysia,5,2,3
+"May 28, 2003",May,28,Malaysia,5,2,3
+"May 29, 2003",May,29,Malaysia,5,2,3
+"May 30, 2003",May,30,Malaysia,5,2,3
+"May 31, 2003",May,31,Malaysia,5,2,3
+"June 2, 2003",June,2,Malaysia,5,2,3
+"June 3, 2003",June,3,Malaysia,5,2,3
+"June 4, 2003",June,4,Malaysia,5,2,3
+"June 5, 2003",June,5,Malaysia,5,2,3
+"June 6, 2003",June,6,Malaysia,5,2,3
+"June 9, 2003",June,9,Malaysia,5,2,3
+"June 10, 2003",June,10,Malaysia,5,2,3
+"June 11, 2003",June,11,Malaysia,5,2,3
+"June 12, 2003",June,12,Malaysia,5,2,3
+"June 13, 2003",June,13,Malaysia,5,2,3
+"June 16, 2003",June,16,Malaysia,5,2,3
+"June 17, 2003",June,17,Malaysia,5,2,3
+"June 18, 2003",June,18,Malaysia,5,2,3
+"June 19, 2003",June,19,Malaysia,5,2,3
+"June 20, 2003",June,20,Malaysia,5,2,3
+"June 23, 2003",June,23,Malaysia,5,2,3
+"June 24, 2003",June,24,Malaysia,5,2,3
+"June 25, 2003",June,25,Malaysia,5,2,3
+"June 26, 2003",June,26,Malaysia,5,2,3
+"June 27, 2003",June,27,Malaysia,5,2,3
+"June 30, 2003",June,30,Malaysia,5,2,3
+"July 1, 2003",July,1,Malaysia,5,2,3
+"July 2, 2003",July,2,Malaysia,5,2,3
+"July 3, 2003",July,3,Malaysia,5,2,3
+"July 4, 2003",July,4,Malaysia,5,2,3
+"July 7, 2003",July,7,Malaysia,5,2,3
+"July 8, 2003",July,8,Malaysia,5,2,3
+"July 9, 2003",July,9,Malaysia,5,2,3
+"July 10, 2003",July,10,Malaysia,5,2,3
+"July 11, 2003",July,11,Malaysia,5,2,3
+"April 17, 2003",April,17,Mongolia,3,0,3
+"April 18, 2003",April,18,Mongolia,3,0,3
+"April 19, 2003",April,19,Mongolia,3,0,3
+"April 21, 2003",April,21,Mongolia,3,0,3
+"April 22, 2003",April,22,Mongolia,3,0,3
+"April 23, 2003",April,23,Mongolia,3,0,3
+"April 24, 2003",April,24,Mongolia,3,0,3
+"April 25, 2003",April,25,Mongolia,3,0,3
+"April 26, 2003",April,26,Mongolia,5,0,3
+"April 28, 2003",April,28,Mongolia,5,0,3
+"April 29, 2003",April,29,Mongolia,5,0,3
+"April 30, 2003",April,30,Mongolia,6,0,3
+"May 1, 2003",May,1,Mongolia,6,0,3
+"May 2, 2003",May,2,Mongolia,8,0,4
+"May 3, 2003",May,3,Mongolia,8,0,4
+"May 5, 2003",May,5,Mongolia,8,0,4
+"May 6, 2003",May,6,Mongolia,8,0,4
+"May 7, 2003",May,7,Mongolia,9,0,6
+"May 8, 2003",May,8,Mongolia,9,0,6
+"May 9, 2003",May,9,Mongolia,9,0,6
+"May 10, 2003",May,10,Mongolia,9,0,6
+"May 12, 2003",May,12,Mongolia,9,0,6
+"May 13, 2003",May,13,Mongolia,9,0,6
+"May 14, 2003",May,14,Mongolia,9,0,6
+"May 15, 2003",May,15,Mongolia,9,0,7
+"May 16, 2003",May,16,Mongolia,9,0,7
+"May 17, 2003",May,17,Mongolia,9,0,7
+"May 19, 2003",May,19,Mongolia,9,0,8
+"May 20, 2003",May,20,Mongolia,9,0,8
+"May 21, 2003",May,21,Mongolia,9,0,8
+"May 22, 2003",May,22,Mongolia,9,0,8
+"May 23, 2003",May,23,Mongolia,9,0,8
+"May 24, 2003",May,24,Mongolia,9,0,8
+"May 26, 2003",May,26,Mongolia,9,0,8
+"May 27, 2003",May,27,Mongolia,9,0,9
+"May 28, 2003",May,28,Mongolia,9,0,9
+"May 29, 2003",May,29,Mongolia,9,0,9
+"May 30, 2003",May,30,Mongolia,9,0,9
+"May 31, 2003",May,31,Mongolia,9,0,9
+"June 2, 2003",June,2,Mongolia,9,0,9
+"June 3, 2003",June,3,Mongolia,9,0,9
+"June 4, 2003",June,4,Mongolia,9,0,9
+"June 5, 2003",June,5,Mongolia,9,0,9
+"June 6, 2003",June,6,Mongolia,9,0,9
+"June 9, 2003",June,9,Mongolia,9,0,9
+"June 10, 2003",June,10,Mongolia,9,0,9
+"June 11, 2003",June,11,Mongolia,9,0,9
+"June 12, 2003",June,12,Mongolia,9,0,9
+"June 13, 2003",June,13,Mongolia,9,0,9
+"June 16, 2003",June,16,Mongolia,9,0,9
+"June 17, 2003",June,17,Mongolia,9,0,9
+"June 18, 2003",June,18,Mongolia,9,0,9
+"June 19, 2003",June,19,Mongolia,9,0,9
+"June 20, 2003",June,20,Mongolia,9,0,9
+"June 23, 2003",June,23,Mongolia,9,0,9
+"June 24, 2003",June,24,Mongolia,9,0,9
+"June 25, 2003",June,25,Mongolia,9,0,9
+"June 26, 2003",June,26,Mongolia,9,0,9
+"June 27, 2003",June,27,Mongolia,9,0,9
+"June 30, 2003",June,30,Mongolia,9,0,9
+"July 1, 2003",July,1,Mongolia,9,0,9
+"July 2, 2003",July,2,Mongolia,9,0,9
+"July 3, 2003",July,3,Mongolia,9,0,9
+"July 4, 2003",July,4,Mongolia,9,0,9
+"July 7, 2003",July,7,Mongolia,9,0,9
+"July 8, 2003",July,8,Mongolia,9,0,9
+"July 9, 2003",July,9,Mongolia,9,0,9
+"July 10, 2003",July,10,Mongolia,9,0,9
+"July 11, 2003",July,11,Mongolia,9,0,9
+"May 2, 2003",May,2,New Zealand,1,0,1
+"May 3, 2003",May,3,New Zealand,1,0,1
+"May 5, 2003",May,5,New Zealand,1,0,1
+"May 6, 2003",May,6,New Zealand,1,0,1
+"May 7, 2003",May,7,New Zealand,1,0,1
+"May 8, 2003",May,8,New Zealand,1,0,1
+"May 9, 2003",May,9,New Zealand,1,0,1
+"May 10, 2003",May,10,New Zealand,1,0,1
+"May 12, 2003",May,12,New Zealand,1,0,1
+"May 13, 2003",May,13,New Zealand,1,0,1
+"May 14, 2003",May,14,New Zealand,1,0,1
+"May 15, 2003",May,15,New Zealand,1,0,1
+"May 16, 2003",May,16,New Zealand,1,0,1
+"May 17, 2003",May,17,New Zealand,1,0,1
+"May 19, 2003",May,19,New Zealand,1,0,1
+"May 20, 2003",May,20,New Zealand,1,0,1
+"May 21, 2003",May,21,New Zealand,1,0,1
+"May 22, 2003",May,22,New Zealand,1,0,1
+"May 23, 2003",May,23,New Zealand,1,0,1
+"May 24, 2003",May,24,New Zealand,1,0,1
+"May 26, 2003",May,26,New Zealand,1,0,1
+"May 27, 2003",May,27,New Zealand,1,0,1
+"May 28, 2003",May,28,New Zealand,1,0,1
+"May 29, 2003",May,29,New Zealand,1,0,1
+"May 30, 2003",May,30,New Zealand,1,0,1
+"May 31, 2003",May,31,New Zealand,1,0,1
+"June 2, 2003",June,2,New Zealand,1,0,1
+"June 3, 2003",June,3,New Zealand,1,0,1
+"June 4, 2003",June,4,New Zealand,1,0,1
+"June 5, 2003",June,5,New Zealand,1,0,1
+"June 6, 2003",June,6,New Zealand,1,0,1
+"June 9, 2003",June,9,New Zealand,1,0,1
+"June 10, 2003",June,10,New Zealand,1,0,1
+"June 11, 2003",June,11,New Zealand,1,0,1
+"June 12, 2003",June,12,New Zealand,1,0,1
+"June 13, 2003",June,13,New Zealand,1,0,1
+"June 16, 2003",June,16,New Zealand,1,0,1
+"June 17, 2003",June,17,New Zealand,1,0,1
+"June 18, 2003",June,18,New Zealand,1,0,1
+"June 19, 2003",June,19,New Zealand,1,0,1
+"June 20, 2003",June,20,New Zealand,1,0,1
+"June 23, 2003",June,23,New Zealand,1,0,1
+"June 24, 2003",June,24,New Zealand,1,0,1
+"June 25, 2003",June,25,New Zealand,1,0,1
+"June 26, 2003",June,26,New Zealand,1,0,1
+"June 27, 2003",June,27,New Zealand,1,0,1
+"June 30, 2003",June,30,New Zealand,1,0,1
+"July 1, 2003",July,1,New Zealand,1,0,1
+"July 2, 2003",July,2,New Zealand,1,0,1
+"July 3, 2003",July,3,New Zealand,1,0,1
+"July 4, 2003",July,4,New Zealand,1,0,1
+"July 7, 2003",July,7,New Zealand,1,0,1
+"July 8, 2003",July,8,New Zealand,1,0,1
+"July 9, 2003",July,9,New Zealand,1,0,1
+"July 10, 2003",July,10,New Zealand,1,0,1
+"July 11, 2003",July,11,New Zealand,1,0,1
+"April 14, 2003",April,14,Philippines,1,0,1
+"April 15, 2003",April,15,Philippines,1,0,1
+"April 16, 2003",April,16,Philippines,1,0,1
+"April 17, 2003",April,17,Philippines,1,0,1
+"April 18, 2003",April,18,Philippines,1,0,1
+"April 19, 2003",April,19,Philippines,1,0,1
+"April 21, 2003",April,21,Philippines,2,1,1
+"April 22, 2003",April,22,Philippines,2,1,1
+"April 23, 2003",April,23,Philippines,2,1,1
+"April 24, 2003",April,24,Philippines,2,1,1
+"April 25, 2003",April,25,Philippines,2,1,1
+"April 26, 2003",April,26,Philippines,4,2,1
+"April 28, 2003",April,28,Philippines,4,2,1
+"April 29, 2003",April,29,Philippines,4,2,1
+"April 30, 2003",April,30,Philippines,4,2,1
+"May 1, 2003",May,1,Philippines,4,2,1
+"May 2, 2003",May,2,Philippines,3,2,1
+"May 3, 2003",May,3,Philippines,3,2,1
+"May 5, 2003",May,5,Philippines,3,2,1
+"May 6, 2003",May,6,Philippines,3,2,1
+"May 7, 2003",May,7,Philippines,10,2,2
+"May 8, 2003",May,8,Philippines,10,2,2
+"May 9, 2003",May,9,Philippines,10,2,2
+"May 10, 2003",May,10,Philippines,10,2,2
+"May 12, 2003",May,12,Philippines,10,2,3
+"May 13, 2003",May,13,Philippines,10,2,3
+"May 14, 2003",May,14,Philippines,10,2,3
+"May 15, 2003",May,15,Philippines,12,2,4
+"May 16, 2003",May,16,Philippines,12,2,4
+"May 17, 2003",May,17,Philippines,12,2,4
+"May 19, 2003",May,19,Philippines,12,2,8
+"May 20, 2003",May,20,Philippines,12,2,8
+"May 21, 2003",May,21,Philippines,12,2,10
+"May 22, 2003",May,22,Philippines,12,2,10
+"May 23, 2003",May,23,Philippines,12,2,10
+"May 24, 2003",May,24,Philippines,12,2,10
+"May 26, 2003",May,26,Philippines,12,2,10
+"May 27, 2003",May,27,Philippines,12,2,10
+"May 28, 2003",May,28,Philippines,12,2,10
+"May 29, 2003",May,29,Philippines,12,2,10
+"May 30, 2003",May,30,Philippines,12,2,10
+"May 31, 2003",May,31,Philippines,12,2,10
+"June 2, 2003",June,2,Philippines,12,2,10
+"June 3, 2003",June,3,Philippines,12,2,10
+"June 4, 2003",June,4,Philippines,12,2,10
+"June 5, 2003",June,5,Philippines,12,2,10
+"June 6, 2003",June,6,Philippines,12,2,10
+"June 9, 2003",June,9,Philippines,12,2,10
+"June 10, 2003",June,10,Philippines,12,2,10
+"June 11, 2003",June,11,Philippines,12,2,10
+"June 12, 2003",June,12,Philippines,14,2,12
+"June 13, 2003",June,13,Philippines,14,2,12
+"June 16, 2003",June,16,Philippines,14,2,12
+"June 17, 2003",June,17,Philippines,14,2,12
+"June 18, 2003",June,18,Philippines,14,2,12
+"June 19, 2003",June,19,Philippines,14,2,12
+"June 20, 2003",June,20,Philippines,14,2,12
+"June 23, 2003",June,23,Philippines,14,2,12
+"June 24, 2003",June,24,Philippines,14,2,12
+"June 25, 2003",June,25,Philippines,14,2,12
+"June 26, 2003",June,26,Philippines,14,2,12
+"June 27, 2003",June,27,Philippines,14,2,12
+"June 30, 2003",June,30,Philippines,14,2,12
+"July 1, 2003",July,1,Philippines,14,2,12
+"July 2, 2003",July,2,Philippines,14,2,12
+"July 3, 2003",July,3,Philippines,14,2,12
+"July 4, 2003",July,4,Philippines,14,2,12
+"July 7, 2003",July,7,Philippines,14,2,12
+"July 8, 2003",July,8,Philippines,14,2,12
+"July 9, 2003",July,9,Philippines,14,2,12
+"July 10, 2003",July,10,Philippines,14,2,12
+"July 11, 2003",July,11,Philippines,14,2,12
+"May 1, 2003",May,1,Poland,1,0,0
+"May 2, 2003",May,2,Poland,1,0,0
+"May 3, 2003",May,3,Poland,1,0,0
+"May 5, 2003",May,5,Poland,1,0,0
+"May 6, 2003",May,6,Poland,1,0,0
+"May 7, 2003",May,7,Poland,1,0,0
+"May 8, 2003",May,8,Poland,1,0,0
+"May 9, 2003",May,9,Poland,1,0,0
+"May 10, 2003",May,10,Poland,1,0,0
+"May 12, 2003",May,12,Poland,1,0,0
+"March 21, 2003",March,21,Republic of Ireland,1,0,0
+"March 22, 2003",March,22,Republic of Ireland,1,0,0
+"March 24, 2003",March,24,Republic of Ireland,1,0,0
+"March 25, 2003",March,25,Republic of Ireland,1,0,0
+"March 26, 2003",March,26,Republic of Ireland,2,0,0
+"March 27, 2003",March,27,Republic of Ireland,2,0,0
+"March 28, 2003",March,28,Republic of Ireland,2,0,0
+"March 29, 2003",March,29,Republic of Ireland,2,0,0
+"March 31, 2003",March,31,Republic of Ireland,2,0,0
+"April 1, 2003",April,1,Republic of Ireland,2,0,0
+"April 2, 2003",April,2,Republic of Ireland,2,0,0
+"April 3, 2003",April,3,Republic of Ireland,1,0,0
+"April 4, 2003",April,4,Republic of Ireland,1,0,0
+"April 5, 2003",April,5,Republic of Ireland,1,0,0
+"April 7, 2003",April,7,Republic of Ireland,1,0,0
+"April 8, 2003",April,8,Republic of Ireland,1,0,0
+"April 9, 2003",April,9,Republic of Ireland,1,0,0
+"April 10, 2003",April,10,Republic of Ireland,1,0,1
+"April 11, 2003",April,11,Republic of Ireland,1,0,1
+"April 12, 2003",April,12,Republic of Ireland,1,0,1
+"April 14, 2003",April,14,Republic of Ireland,1,0,1
+"April 15, 2003",April,15,Republic of Ireland,1,0,1
+"April 16, 2003",April,16,Republic of Ireland,1,0,1
+"April 17, 2003",April,17,Republic of Ireland,1,0,1
+"April 18, 2003",April,18,Republic of Ireland,1,0,1
+"April 19, 2003",April,19,Republic of Ireland,1,0,1
+"April 21, 2003",April,21,Republic of Ireland,1,0,1
+"April 22, 2003",April,22,Republic of Ireland,1,0,1
+"April 23, 2003",April,23,Republic of Ireland,1,0,1
+"April 24, 2003",April,24,Republic of Ireland,1,0,1
+"April 25, 2003",April,25,Republic of Ireland,1,0,1
+"April 26, 2003",April,26,Republic of Ireland,1,0,1
+"April 28, 2003",April,28,Republic of Ireland,1,0,1
+"April 29, 2003",April,29,Republic of Ireland,1,0,1
+"April 30, 2003",April,30,Republic of Ireland,1,0,1
+"May 1, 2003",May,1,Republic of Ireland,1,0,1
+"May 2, 2003",May,2,Republic of Ireland,1,0,1
+"May 3, 2003",May,3,Republic of Ireland,1,0,1
+"May 5, 2003",May,5,Republic of Ireland,1,0,1
+"May 6, 2003",May,6,Republic of Ireland,1,0,1
+"May 7, 2003",May,7,Republic of Ireland,1,0,1
+"May 8, 2003",May,8,Republic of Ireland,1,0,1
+"May 9, 2003",May,9,Republic of Ireland,1,0,1
+"May 10, 2003",May,10,Republic of Ireland,1,0,1
+"May 12, 2003",May,12,Republic of Ireland,1,0,1
+"May 13, 2003",May,13,Republic of Ireland,1,0,1
+"May 14, 2003",May,14,Republic of Ireland,1,0,1
+"May 15, 2003",May,15,Republic of Ireland,1,0,1
+"May 16, 2003",May,16,Republic of Ireland,1,0,1
+"May 17, 2003",May,17,Republic of Ireland,1,0,1
+"May 19, 2003",May,19,Republic of Ireland,1,0,1
+"May 20, 2003",May,20,Republic of Ireland,1,0,1
+"May 21, 2003",May,21,Republic of Ireland,1,0,1
+"May 22, 2003",May,22,Republic of Ireland,1,0,1
+"May 23, 2003",May,23,Republic of Ireland,1,0,1
+"May 24, 2003",May,24,Republic of Ireland,1,0,1
+"May 26, 2003",May,26,Republic of Ireland,1,0,1
+"May 27, 2003",May,27,Republic of Ireland,1,0,1
+"May 28, 2003",May,28,Republic of Ireland,1,0,1
+"May 29, 2003",May,29,Republic of Ireland,1,0,1
+"May 30, 2003",May,30,Republic of Ireland,1,0,1
+"May 31, 2003",May,31,Republic of Ireland,1,0,1
+"June 2, 2003",June,2,Republic of Ireland,1,0,1
+"June 3, 2003",June,3,Republic of Ireland,1,0,1
+"June 4, 2003",June,4,Republic of Ireland,1,0,1
+"June 5, 2003",June,5,Republic of Ireland,1,0,1
+"June 6, 2003",June,6,Republic of Ireland,1,0,1
+"June 9, 2003",June,9,Republic of Ireland,1,0,1
+"June 10, 2003",June,10,Republic of Ireland,1,0,1
+"June 11, 2003",June,11,Republic of Ireland,1,0,1
+"June 12, 2003",June,12,Republic of Ireland,1,0,1
+"June 13, 2003",June,13,Republic of Ireland,1,0,1
+"June 16, 2003",June,16,Republic of Ireland,1,0,1
+"June 17, 2003",June,17,Republic of Ireland,1,0,1
+"June 18, 2003",June,18,Republic of Ireland,1,0,1
+"June 19, 2003",June,19,Republic of Ireland,1,0,1
+"June 20, 2003",June,20,Republic of Ireland,1,0,1
+"June 23, 2003",June,23,Republic of Ireland,1,0,1
+"June 24, 2003",June,24,Republic of Ireland,1,0,1
+"June 25, 2003",June,25,Republic of Ireland,1,0,1
+"June 26, 2003",June,26,Republic of Ireland,1,0,1
+"June 27, 2003",June,27,Republic of Ireland,1,0,1
+"June 30, 2003",June,30,Republic of Ireland,1,0,1
+"July 1, 2003",July,1,Republic of Ireland,1,0,1
+"July 2, 2003",July,2,Republic of Ireland,1,0,1
+"July 3, 2003",July,3,Republic of Ireland,1,0,1
+"July 4, 2003",July,4,Republic of Ireland,1,0,1
+"July 7, 2003",July,7,Republic of Ireland,1,0,1
+"July 8, 2003",July,8,Republic of Ireland,1,0,1
+"July 9, 2003",July,9,Republic of Ireland,1,0,1
+"July 10, 2003",July,10,Republic of Ireland,1,0,1
+"July 11, 2003",July,11,Republic of Ireland,1,0,1
+"April 29, 2003",April,29,Republic of Korea,1,0,0
+"April 30, 2003",April,30,Republic of Korea,1,0,0
+"May 1, 2003",May,1,Republic of Korea,1,0,0
+"May 2, 2003",May,2,Republic of Korea,1,0,0
+"May 3, 2003",May,3,Republic of Korea,1,0,0
+"May 5, 2003",May,5,Republic of Korea,1,0,0
+"May 6, 2003",May,6,Republic of Korea,1,0,0
+"May 7, 2003",May,7,Republic of Korea,1,0,0
+"May 8, 2003",May,8,Republic of Korea,1,0,1
+"May 9, 2003",May,9,Republic of Korea,1,0,1
+"May 10, 2003",May,10,Republic of Korea,1,0,1
+"May 12, 2003",May,12,Republic of Korea,2,0,1
+"May 13, 2003",May,13,Republic of Korea,2,0,1
+"May 14, 2003",May,14,Republic of Korea,3,0,1
+"May 15, 2003",May,15,Republic of Korea,3,0,1
+"May 16, 2003",May,16,Republic of Korea,3,0,1
+"May 17, 2003",May,17,Republic of Korea,3,0,1
+"May 19, 2003",May,19,Republic of Korea,3,0,1
+"May 20, 2003",May,20,Republic of Korea,3,0,2
+"May 21, 2003",May,21,Republic of Korea,3,0,2
+"May 22, 2003",May,22,Republic of Korea,3,0,2
+"May 23, 2003",May,23,Republic of Korea,3,0,2
+"May 24, 2003",May,24,Republic of Korea,3,0,2
+"May 26, 2003",May,26,Republic of Korea,3,0,2
+"May 27, 2003",May,27,Republic of Korea,3,0,2
+"May 28, 2003",May,28,Republic of Korea,3,0,2
+"May 29, 2003",May,29,Republic of Korea,3,0,2
+"May 30, 2003",May,30,Republic of Korea,3,0,3
+"May 31, 2003",May,31,Republic of Korea,3,0,3
+"June 2, 2003",June,2,Republic of Korea,3,0,3
+"June 3, 2003",June,3,Republic of Korea,3,0,3
+"June 4, 2003",June,4,Republic of Korea,3,0,3
+"June 5, 2003",June,5,Republic of Korea,3,0,3
+"June 6, 2003",June,6,Republic of Korea,3,0,3
+"June 9, 2003",June,9,Republic of Korea,3,0,3
+"June 10, 2003",June,10,Republic of Korea,3,0,3
+"June 11, 2003",June,11,Republic of Korea,3,0,3
+"June 12, 2003",June,12,Republic of Korea,3,0,3
+"June 13, 2003",June,13,Republic of Korea,3,0,3
+"June 16, 2003",June,16,Republic of Korea,3,0,3
+"June 17, 2003",June,17,Republic of Korea,3,0,3
+"June 18, 2003",June,18,Republic of Korea,3,0,3
+"June 19, 2003",June,19,Republic of Korea,3,0,3
+"June 20, 2003",June,20,Republic of Korea,3,0,3
+"June 23, 2003",June,23,Republic of Korea,3,0,3
+"June 24, 2003",June,24,Republic of Korea,3,0,3
+"June 25, 2003",June,25,Republic of Korea,3,0,3
+"June 26, 2003",June,26,Republic of Korea,3,0,3
+"June 27, 2003",June,27,Republic of Korea,3,0,3
+"June 30, 2003",June,30,Republic of Korea,3,0,3
+"July 1, 2003",July,1,Republic of Korea,3,0,3
+"July 2, 2003",July,2,Republic of Korea,3,0,3
+"July 3, 2003",July,3,Republic of Korea,3,0,3
+"July 4, 2003",July,4,Republic of Korea,3,0,3
+"July 7, 2003",July,7,Republic of Korea,3,0,3
+"July 8, 2003",July,8,Republic of Korea,3,0,3
+"July 9, 2003",July,9,Republic of Korea,3,0,3
+"July 10, 2003",July,10,Republic of Korea,3,0,3
+"July 11, 2003",July,11,Republic of Korea,3,0,3
+"March 27, 2003",March,27,Romania,3,0,0
+"March 28, 2003",March,28,Romania,3,0,0
+"March 29, 2003",March,29,Romania,3,0,0
+"March 31, 2003",March,31,Romania,3,0,0
+"April 1, 2003",April,1,Romania,3,0,0
+"April 2, 2003",April,2,Romania,3,0,0
+"April 3, 2003",April,3,Romania,1,0,0
+"April 4, 2003",April,4,Romania,1,0,0
+"April 5, 2003",April,5,Romania,1,0,0
+"April 7, 2003",April,7,Romania,1,0,0
+"April 8, 2003",April,8,Romania,1,0,0
+"April 9, 2003",April,9,Romania,1,0,0
+"April 10, 2003",April,10,Romania,1,0,0
+"April 11, 2003",April,11,Romania,1,0,0
+"April 12, 2003",April,12,Romania,1,0,0
+"April 14, 2003",April,14,Romania,1,0,0
+"April 15, 2003",April,15,Romania,1,0,1
+"April 16, 2003",April,16,Romania,1,0,1
+"April 17, 2003",April,17,Romania,1,0,1
+"April 18, 2003",April,18,Romania,1,0,1
+"April 19, 2003",April,19,Romania,1,0,1
+"April 21, 2003",April,21,Romania,1,0,1
+"April 22, 2003",April,22,Romania,1,0,1
+"April 23, 2003",April,23,Romania,1,0,1
+"April 24, 2003",April,24,Romania,1,0,1
+"April 25, 2003",April,25,Romania,1,0,1
+"April 26, 2003",April,26,Romania,1,0,1
+"April 28, 2003",April,28,Romania,1,0,1
+"April 29, 2003",April,29,Romania,1,0,1
+"April 30, 2003",April,30,Romania,1,0,1
+"May 1, 2003",May,1,Romania,1,0,1
+"May 2, 2003",May,2,Romania,1,0,1
+"May 3, 2003",May,3,Romania,1,0,1
+"May 5, 2003",May,5,Romania,1,0,1
+"May 6, 2003",May,6,Romania,1,0,1
+"May 7, 2003",May,7,Romania,1,0,1
+"May 8, 2003",May,8,Romania,1,0,1
+"May 9, 2003",May,9,Romania,1,0,1
+"May 10, 2003",May,10,Romania,1,0,1
+"May 12, 2003",May,12,Romania,1,0,1
+"May 13, 2003",May,13,Romania,1,0,1
+"May 14, 2003",May,14,Romania,1,0,1
+"May 15, 2003",May,15,Romania,1,0,1
+"May 16, 2003",May,16,Romania,1,0,1
+"May 17, 2003",May,17,Romania,1,0,1
+"May 19, 2003",May,19,Romania,1,0,1
+"May 20, 2003",May,20,Romania,1,0,1
+"May 21, 2003",May,21,Romania,1,0,1
+"May 22, 2003",May,22,Romania,1,0,1
+"May 23, 2003",May,23,Romania,1,0,1
+"May 24, 2003",May,24,Romania,1,0,1
+"May 26, 2003",May,26,Romania,1,0,1
+"May 27, 2003",May,27,Romania,1,0,1
+"May 28, 2003",May,28,Romania,1,0,1
+"May 29, 2003",May,29,Romania,1,0,1
+"May 30, 2003",May,30,Romania,1,0,1
+"May 31, 2003",May,31,Romania,1,0,1
+"June 2, 2003",June,2,Romania,1,0,1
+"June 3, 2003",June,3,Romania,1,0,1
+"June 4, 2003",June,4,Romania,1,0,1
+"June 5, 2003",June,5,Romania,1,0,1
+"June 6, 2003",June,6,Romania,1,0,1
+"June 9, 2003",June,9,Romania,1,0,1
+"June 10, 2003",June,10,Romania,1,0,1
+"June 11, 2003",June,11,Romania,1,0,1
+"June 12, 2003",June,12,Romania,1,0,1
+"June 13, 2003",June,13,Romania,1,0,1
+"June 16, 2003",June,16,Romania,1,0,1
+"June 17, 2003",June,17,Romania,1,0,1
+"June 18, 2003",June,18,Romania,1,0,1
+"June 19, 2003",June,19,Romania,1,0,1
+"June 20, 2003",June,20,Romania,1,0,1
+"June 23, 2003",June,23,Romania,1,0,1
+"June 24, 2003",June,24,Romania,1,0,1
+"June 25, 2003",June,25,Romania,1,0,1
+"June 26, 2003",June,26,Romania,1,0,1
+"June 27, 2003",June,27,Romania,1,0,1
+"June 30, 2003",June,30,Romania,1,0,1
+"July 1, 2003",July,1,Romania,1,0,1
+"July 2, 2003",July,2,Romania,1,0,1
+"July 3, 2003",July,3,Romania,1,0,1
+"July 4, 2003",July,4,Romania,1,0,1
+"July 7, 2003",July,7,Romania,1,0,1
+"July 8, 2003",July,8,Romania,1,0,1
+"July 9, 2003",July,9,Romania,1,0,1
+"July 10, 2003",July,10,Romania,1,0,1
+"July 11, 2003",July,11,Romania,1,0,1
+"May 31, 2003",May,31,Russian Federation,1,0,0
+"June 2, 2003",June,2,Russian Federation,1,0,0
+"June 3, 2003",June,3,Russian Federation,1,0,0
+"June 4, 2003",June,4,Russian Federation,1,0,0
+"June 5, 2003",June,5,Russian Federation,1,0,0
+"June 6, 2003",June,6,Russian Federation,1,0,0
+"June 9, 2003",June,9,Russian Federation,1,0,0
+"June 10, 2003",June,10,Russian Federation,1,0,0
+"June 11, 2003",June,11,Russian Federation,1,0,0
+"June 12, 2003",June,12,Russian Federation,1,0,0
+"June 13, 2003",June,13,Russian Federation,1,0,0
+"June 16, 2003",June,16,Russian Federation,1,0,0
+"June 17, 2003",June,17,Russian Federation,1,0,0
+"June 18, 2003",June,18,Russian Federation,1,0,0
+"June 19, 2003",June,19,Russian Federation,1,0,0
+"June 20, 2003",June,20,Russian Federation,1,0,0
+"June 23, 2003",June,23,Russian Federation,1,0,0
+"June 24, 2003",June,24,Russian Federation,1,0,0
+"June 25, 2003",June,25,Russian Federation,1,0,0
+"June 26, 2003",June,26,Russian Federation,1,0,0
+"June 27, 2003",June,27,Russian Federation,1,0,0
+"June 30, 2003",June,30,Russian Federation,1,0,0
+"July 1, 2003",July,1,Russian Federation,1,0,0
+"July 2, 2003",July,2,Russian Federation,1,0,0
+"July 3, 2003",July,3,Russian Federation,1,0,0
+"July 4, 2003",July,4,Russian Federation,1,0,0
+"July 7, 2003",July,7,Russian Federation,1,0,0
+"July 8, 2003",July,8,Russian Federation,1,0,0
+"July 9, 2003",July,9,Russian Federation,1,0,0
+"July 10, 2003",July,10,Russian Federation,1,0,0
+"July 11, 2003",July,11,Russian Federation,1,0,0
+"March 17, 2003",March,17,Singapore,20,0,0
+"March 18, 2003",March,18,Singapore,23,0,0
+"March 19, 2003",March,19,Singapore,31,0,0
+"March 20, 2003",March,20,Singapore,34,0,0
+"March 21, 2003",March,21,Singapore,39,0,0
+"March 22, 2003",March,22,Singapore,44,0,0
+"March 24, 2003",March,24,Singapore,65,0,0
+"March 25, 2003",March,25,Singapore,69,0,0
+"March 26, 2003",March,26,Singapore,74,1,0
+"March 27, 2003",March,27,Singapore,78,2,0
+"March 28, 2003",March,28,Singapore,86,2,0
+"March 29, 2003",March,29,Singapore,89,2,0
+"March 31, 2003",March,31,Singapore,91,2,0
+"April 1, 2003",April,1,Singapore,92,3,0
+"April 2, 2003",April,2,Singapore,95,4,0
+"April 3, 2003",April,3,Singapore,98,4,0
+"April 4, 2003",April,4,Singapore,100,5,0
+"April 5, 2003",April,5,Singapore,101,6,0
+"April 7, 2003",April,7,Singapore,106,6,0
+"April 8, 2003",April,8,Singapore,113,8,0
+"April 9, 2003",April,9,Singapore,118,9,0
+"April 10, 2003",April,10,Singapore,126,9,75
+"April 11, 2003",April,11,Singapore,133,9,77
+"April 12, 2003",April,12,Singapore,147,9,77
+"April 14, 2003",April,14,Singapore,158,12,84
+"April 15, 2003",April,15,Singapore,162,13,85
+"April 16, 2003",April,16,Singapore,162,13,85
+"April 17, 2003",April,17,Singapore,167,15,91
+"April 18, 2003",April,18,Singapore,177,16,100
+"April 19, 2003",April,19,Singapore,177,16,100
+"April 21, 2003",April,21,Singapore,178,16,104
+"April 22, 2003",April,22,Singapore,186,16,110
+"April 23, 2003",April,23,Singapore,189,17,114
+"April 24, 2003",April,24,Singapore,192,19,118
+"April 25, 2003",April,25,Singapore,195,19,126
+"April 26, 2003",April,26,Singapore,198,21,126
+"April 28, 2003",April,28,Singapore,199,23,137
+"April 29, 2003",April,29,Singapore,201,24,139
+"April 30, 2003",April,30,Singapore,201,24,139
+"May 1, 2003",May,1,Singapore,201,25,143
+"May 2, 2003",May,2,Singapore,203,25,146
+"May 3, 2003",May,3,Singapore,203,25,147
+"May 5, 2003",May,5,Singapore,204,26,149
+"May 6, 2003",May,6,Singapore,204,27,149
+"May 7, 2003",May,7,Singapore,204,27,150
+"May 8, 2003",May,8,Singapore,204,27,153
+"May 9, 2003",May,9,Singapore,204,27,153
+"May 10, 2003",May,10,Singapore,205,27,155
+"May 12, 2003",May,12,Singapore,205,28,156
+"May 13, 2003",May,13,Singapore,205,28,157
+"May 14, 2003",May,14,Singapore,205,28,157
+"May 15, 2003",May,15,Singapore,205,28,157
+"May 16, 2003",May,16,Singapore,205,28,157
+"May 17, 2003",May,17,Singapore,205,28,157
+"May 19, 2003",May,19,Singapore,206,28,160
+"May 20, 2003",May,20,Singapore,206,28,161
+"May 21, 2003",May,21,Singapore,206,28,161
+"May 22, 2003",May,22,Singapore,206,29,162
+"May 23, 2003",May,23,Singapore,206,31,163
+"May 24, 2003",May,24,Singapore,206,31,163
+"May 26, 2003",May,26,Singapore,206,31,163
+"May 27, 2003",May,27,Singapore,206,31,163
+"May 28, 2003",May,28,Singapore,206,31,165
+"May 29, 2003",May,29,Singapore,206,31,165
+"May 30, 2003",May,30,Singapore,206,31,165
+"May 31, 2003",May,31,Singapore,206,31,165
+"June 2, 2003",June,2,Singapore,206,31,165
+"June 3, 2003",June,3,Singapore,206,31,165
+"June 4, 2003",June,4,Singapore,206,31,165
+"June 5, 2003",June,5,Singapore,206,31,165
+"June 6, 2003",June,6,Singapore,206,31,165
+"June 9, 2003",June,9,Singapore,206,31,168
+"June 10, 2003",June,10,Singapore,206,31,168
+"June 11, 2003",June,11,Singapore,206,31,168
+"June 12, 2003",June,12,Singapore,206,31,169
+"June 13, 2003",June,13,Singapore,206,31,169
+"June 16, 2003",June,16,Singapore,206,31,169
+"June 17, 2003",June,17,Singapore,206,31,169
+"June 18, 2003",June,18,Singapore,206,31,169
+"June 19, 2003",June,19,Singapore,206,31,170
+"June 20, 2003",June,20,Singapore,206,31,170
+"June 23, 2003",June,23,Singapore,206,31,170
+"June 24, 2003",June,24,Singapore,206,31,170
+"June 25, 2003",June,25,Singapore,206,31,170
+"June 26, 2003",June,26,Singapore,206,32,170
+"June 27, 2003",June,27,Singapore,206,32,171
+"June 30, 2003",June,30,Singapore,206,32,171
+"July 1, 2003",July,1,Singapore,206,32,171
+"July 2, 2003",July,2,Singapore,206,32,171
+"July 3, 2003",July,3,Singapore,206,32,171
+"July 4, 2003",July,4,Singapore,206,32,171
+"July 7, 2003",July,7,Singapore,206,32,171
+"July 8, 2003",July,8,Singapore,206,32,171
+"July 9, 2003",July,9,Singapore,206,32,171
+"July 10, 2003",July,10,Singapore,206,32,172
+"July 11, 2003",July,11,Singapore,206,32,172
+"March 18, 2003",March,18,Slovenia,1,0,0
+"March 19, 2003",March,19,Slovenia,1,0,0
+"March 20, 2003",March,20,Slovenia,1,0,0
+"March 21, 2003",March,21,Slovenia,1,0,0
+"March 22, 2003",March,22,Slovenia,1,0,0
+"April 11, 2003",April,11,South Africa,1,0,0
+"April 12, 2003",April,12,South Africa,1,0,0
+"April 14, 2003",April,14,South Africa,1,0,0
+"April 15, 2003",April,15,South Africa,1,0,0
+"April 16, 2003",April,16,South Africa,1,0,0
+"April 17, 2003",April,17,South Africa,1,0,0
+"April 18, 2003",April,18,South Africa,1,0,0
+"April 19, 2003",April,19,South Africa,1,0,0
+"April 21, 2003",April,21,South Africa,1,0,0
+"April 22, 2003",April,22,South Africa,1,0,0
+"April 23, 2003",April,23,South Africa,1,0,0
+"April 24, 2003",April,24,South Africa,1,0,0
+"April 25, 2003",April,25,South Africa,1,0,0
+"April 26, 2003",April,26,South Africa,1,0,0
+"April 28, 2003",April,28,South Africa,1,0,0
+"April 29, 2003",April,29,South Africa,1,0,0
+"April 30, 2003",April,30,South Africa,1,0,0
+"May 1, 2003",May,1,South Africa,1,0,0
+"May 2, 2003",May,2,South Africa,1,0,0
+"May 3, 2003",May,3,South Africa,1,0,1
+"May 5, 2003",May,5,South Africa,1,1,0
+"May 6, 2003",May,6,South Africa,1,1,0
+"May 7, 2003",May,7,South Africa,1,1,0
+"May 8, 2003",May,8,South Africa,1,1,0
+"May 9, 2003",May,9,South Africa,1,1,0
+"May 10, 2003",May,10,South Africa,1,1,0
+"May 12, 2003",May,12,South Africa,1,1,0
+"May 13, 2003",May,13,South Africa,1,1,0
+"May 14, 2003",May,14,South Africa,1,1,0
+"May 15, 2003",May,15,South Africa,1,1,0
+"May 16, 2003",May,16,South Africa,1,1,0
+"May 17, 2003",May,17,South Africa,1,1,0
+"May 19, 2003",May,19,South Africa,1,1,0
+"May 20, 2003",May,20,South Africa,1,1,0
+"May 21, 2003",May,21,South Africa,1,1,0
+"May 22, 2003",May,22,South Africa,1,1,0
+"May 23, 2003",May,23,South Africa,1,1,0
+"May 24, 2003",May,24,South Africa,1,1,0
+"May 26, 2003",May,26,South Africa,1,1,0
+"May 27, 2003",May,27,South Africa,1,1,0
+"May 28, 2003",May,28,South Africa,1,1,0
+"May 29, 2003",May,29,South Africa,1,1,0
+"May 30, 2003",May,30,South Africa,1,1,0
+"May 31, 2003",May,31,South Africa,1,1,0
+"June 2, 2003",June,2,South Africa,1,1,0
+"June 3, 2003",June,3,South Africa,1,1,0
+"June 4, 2003",June,4,South Africa,1,1,0
+"June 5, 2003",June,5,South Africa,1,1,0
+"June 6, 2003",June,6,South Africa,1,1,0
+"June 9, 2003",June,9,South Africa,1,1,0
+"June 10, 2003",June,10,South Africa,1,1,0
+"June 11, 2003",June,11,South Africa,1,1,0
+"June 12, 2003",June,12,South Africa,1,1,0
+"June 13, 2003",June,13,South Africa,1,1,0
+"June 16, 2003",June,16,South Africa,1,1,0
+"June 17, 2003",June,17,South Africa,1,1,0
+"June 18, 2003",June,18,South Africa,1,1,0
+"June 19, 2003",June,19,South Africa,1,1,0
+"June 20, 2003",June,20,South Africa,1,1,0
+"June 23, 2003",June,23,South Africa,1,1,0
+"June 24, 2003",June,24,South Africa,1,1,0
+"June 25, 2003",June,25,South Africa,1,1,0
+"June 26, 2003",June,26,South Africa,1,1,0
+"June 27, 2003",June,27,South Africa,1,1,0
+"June 30, 2003",June,30,South Africa,1,1,0
+"July 1, 2003",July,1,South Africa,1,1,0
+"July 2, 2003",July,2,South Africa,1,1,0
+"July 3, 2003",July,3,South Africa,1,1,0
+"July 4, 2003",July,4,South Africa,1,1,0
+"July 7, 2003",July,7,South Africa,1,1,0
+"July 8, 2003",July,8,South Africa,1,1,0
+"July 9, 2003",July,9,South Africa,1,1,0
+"July 10, 2003",July,10,South Africa,1,1,0
+"July 11, 2003",July,11,South Africa,1,1,0
+"March 19, 2003",March,19,Spain,1,0,0
+"March 20, 2003",March,20,Spain,1,0,0
+"March 21, 2003",March,21,Spain,1,0,0
+"March 22, 2003",March,22,Spain,1,0,0
+"March 24, 2003",March,24,Spain,1,0,0
+"April 2, 2003",April,2,Spain,1,0,0
+"April 4, 2003",April,4,Spain,1,0,0
+"April 5, 2003",April,5,Spain,1,0,0
+"April 7, 2003",April,7,Spain,1,0,0
+"April 8, 2003",April,8,Spain,1,0,0
+"April 9, 2003",April,9,Spain,1,0,0
+"April 10, 2003",April,10,Spain,1,0,0
+"April 11, 2003",April,11,Spain,1,0,0
+"April 12, 2003",April,12,Spain,1,0,0
+"April 14, 2003",April,14,Spain,1,0,0
+"April 15, 2003",April,15,Spain,1,0,0
+"April 16, 2003",April,16,Spain,1,0,0
+"April 17, 2003",April,17,Spain,1,0,0
+"April 18, 2003",April,18,Spain,1,0,0
+"April 19, 2003",April,19,Spain,1,0,0
+"April 21, 2003",April,21,Spain,1,0,0
+"April 22, 2003",April,22,Spain,1,0,0
+"April 23, 2003",April,23,Spain,1,0,0
+"April 24, 2003",April,24,Spain,1,0,1
+"April 25, 2003",April,25,Spain,1,0,1
+"April 26, 2003",April,26,Spain,1,0,1
+"April 28, 2003",April,28,Spain,1,0,1
+"April 29, 2003",April,29,Spain,1,0,1
+"April 30, 2003",April,30,Spain,1,0,1
+"May 1, 2003",May,1,Spain,1,0,1
+"May 2, 2003",May,2,Spain,1,0,1
+"May 3, 2003",May,3,Spain,1,0,1
+"May 5, 2003",May,5,Spain,1,0,1
+"May 6, 2003",May,6,Spain,1,0,1
+"May 7, 2003",May,7,Spain,1,0,1
+"May 8, 2003",May,8,Spain,1,0,1
+"May 9, 2003",May,9,Spain,1,0,1
+"May 10, 2003",May,10,Spain,1,0,1
+"May 12, 2003",May,12,Spain,1,0,1
+"May 13, 2003",May,13,Spain,1,0,1
+"May 14, 2003",May,14,Spain,1,0,1
+"May 15, 2003",May,15,Spain,1,0,1
+"May 16, 2003",May,16,Spain,1,0,1
+"May 17, 2003",May,17,Spain,1,0,1
+"May 19, 2003",May,19,Spain,1,0,1
+"May 20, 2003",May,20,Spain,1,0,1
+"May 21, 2003",May,21,Spain,1,0,1
+"May 22, 2003",May,22,Spain,1,0,1
+"May 23, 2003",May,23,Spain,1,0,1
+"May 24, 2003",May,24,Spain,1,0,1
+"May 26, 2003",May,26,Spain,1,0,1
+"May 27, 2003",May,27,Spain,1,0,1
+"May 28, 2003",May,28,Spain,1,0,1
+"May 29, 2003",May,29,Spain,1,0,1
+"May 30, 2003",May,30,Spain,1,0,1
+"May 31, 2003",May,31,Spain,1,0,1
+"June 2, 2003",June,2,Spain,1,0,1
+"June 3, 2003",June,3,Spain,1,0,1
+"June 4, 2003",June,4,Spain,1,0,1
+"June 5, 2003",June,5,Spain,1,0,1
+"June 6, 2003",June,6,Spain,1,0,1
+"June 9, 2003",June,9,Spain,1,0,1
+"June 10, 2003",June,10,Spain,1,0,1
+"June 11, 2003",June,11,Spain,1,0,1
+"June 12, 2003",June,12,Spain,1,0,1
+"June 13, 2003",June,13,Spain,1,0,1
+"June 16, 2003",June,16,Spain,1,0,1
+"June 17, 2003",June,17,Spain,1,0,1
+"June 18, 2003",June,18,Spain,1,0,1
+"June 19, 2003",June,19,Spain,1,0,1
+"June 20, 2003",June,20,Spain,1,0,1
+"June 23, 2003",June,23,Spain,1,0,1
+"June 24, 2003",June,24,Spain,1,0,1
+"June 25, 2003",June,25,Spain,1,0,1
+"June 26, 2003",June,26,Spain,1,0,1
+"June 27, 2003",June,27,Spain,1,0,1
+"June 30, 2003",June,30,Spain,1,0,1
+"July 1, 2003",July,1,Spain,1,0,1
+"July 2, 2003",July,2,Spain,1,0,1
+"July 3, 2003",July,3,Spain,1,0,1
+"July 4, 2003",July,4,Spain,1,0,1
+"July 7, 2003",July,7,Spain,1,0,1
+"July 8, 2003",July,8,Spain,1,0,1
+"July 9, 2003",July,9,Spain,1,0,1
+"July 10, 2003",July,10,Spain,1,0,1
+"July 11, 2003",July,11,Spain,1,0,1
+"April 14, 2003",April,14,Sweden,1,0,0
+"April 15, 2003",April,15,Sweden,1,0,0
+"April 16, 2003",April,16,Sweden,1,0,0
+"April 17, 2003",April,17,Sweden,1,0,0
+"April 18, 2003",April,18,Sweden,3,0,0
+"April 19, 2003",April,19,Sweden,3,0,0
+"April 21, 2003",April,21,Sweden,3,0,0
+"April 22, 2003",April,22,Sweden,3,0,0
+"April 23, 2003",April,23,Sweden,3,0,0
+"April 24, 2003",April,24,Sweden,3,0,2
+"April 25, 2003",April,25,Sweden,3,0,2
+"April 26, 2003",April,26,Sweden,3,0,2
+"April 28, 2003",April,28,Sweden,3,0,2
+"April 29, 2003",April,29,Sweden,3,0,2
+"April 30, 2003",April,30,Sweden,3,0,2
+"May 1, 2003",May,1,Sweden,3,0,2
+"May 2, 2003",May,2,Sweden,3,0,2
+"May 3, 2003",May,3,Sweden,3,0,2
+"May 5, 2003",May,5,Sweden,3,0,2
+"May 6, 2003",May,6,Sweden,3,0,2
+"May 7, 2003",May,7,Sweden,3,0,2
+"May 8, 2003",May,8,Sweden,3,0,2
+"May 9, 2003",May,9,Sweden,3,0,2
+"May 10, 2003",May,10,Sweden,3,0,2
+"May 12, 2003",May,12,Sweden,3,0,2
+"May 13, 2003",May,13,Sweden,3,0,3
+"May 14, 2003",May,14,Sweden,3,0,3
+"May 15, 2003",May,15,Sweden,3,0,3
+"May 16, 2003",May,16,Sweden,3,0,3
+"May 17, 2003",May,17,Sweden,3,0,3
+"May 19, 2003",May,19,Sweden,3,0,3
+"May 20, 2003",May,20,Sweden,3,0,3
+"May 21, 2003",May,21,Sweden,3,0,3
+"May 22, 2003",May,22,Sweden,3,0,3
+"May 23, 2003",May,23,Sweden,3,0,3
+"May 24, 2003",May,24,Sweden,3,0,3
+"May 26, 2003",May,26,Sweden,3,0,3
+"May 27, 2003",May,27,Sweden,3,0,3
+"May 28, 2003",May,28,Sweden,3,0,3
+"May 29, 2003",May,29,Sweden,3,0,3
+"May 30, 2003",May,30,Sweden,3,0,3
+"May 31, 2003",May,31,Sweden,3,0,3
+"June 2, 2003",June,2,Sweden,3,0,3
+"June 3, 2003",June,3,Sweden,3,0,3
+"June 4, 2003",June,4,Sweden,3,0,3
+"June 5, 2003",June,5,Sweden,3,0,3
+"June 6, 2003",June,6,Sweden,3,0,3
+"June 9, 2003",June,9,Sweden,3,0,3
+"June 10, 2003",June,10,Sweden,3,0,3
+"June 11, 2003",June,11,Sweden,3,0,3
+"June 12, 2003",June,12,Sweden,3,0,3
+"June 13, 2003",June,13,Sweden,3,0,3
+"June 16, 2003",June,16,Sweden,3,0,3
+"June 17, 2003",June,17,Sweden,3,0,3
+"June 18, 2003",June,18,Sweden,3,0,3
+"June 19, 2003",June,19,Sweden,3,0,3
+"June 20, 2003",June,20,Sweden,3,0,3
+"June 23, 2003",June,23,Sweden,3,0,3
+"June 24, 2003",June,24,Sweden,3,0,3
+"June 25, 2003",June,25,Sweden,3,0,3
+"June 26, 2003",June,26,Sweden,3,0,3
+"June 27, 2003",June,27,Sweden,3,0,3
+"June 30, 2003",June,30,Sweden,3,0,3
+"July 1, 2003",July,1,Sweden,3,0,3
+"July 2, 2003",July,2,Sweden,3,0,3
+"July 3, 2003",July,3,Sweden,3,0,3
+"July 4, 2003",July,4,Sweden,3,0,3
+"July 7, 2003",July,7,Sweden,3,0,3
+"July 8, 2003",July,8,Sweden,3,0,3
+"July 9, 2003",July,9,Sweden,3,0,3
+"July 10, 2003",July,10,Sweden,3,0,3
+"July 11, 2003",July,11,Sweden,3,0,3
+"March 17, 2003",March,17,Switzerland,2,0,0
+"March 20, 2003",March,20,Switzerland,7,0,0
+"March 21, 2003",March,21,Switzerland,7,0,0
+"March 22, 2003",March,22,Switzerland,7,0,0
+"March 24, 2003",March,24,Switzerland,2,0,0
+"March 25, 2003",March,25,Switzerland,2,0,0
+"March 26, 2003",March,26,Switzerland,2,0,0
+"March 27, 2003",March,27,Switzerland,2,0,0
+"March 28, 2003",March,28,Switzerland,2,0,0
+"March 29, 2003",March,29,Switzerland,3,0,0
+"March 31, 2003",March,31,Switzerland,3,0,0
+"April 1, 2003",April,1,Switzerland,3,0,0
+"April 2, 2003",April,2,Switzerland,2,0,0
+"April 3, 2003",April,3,Switzerland,2,0,0
+"April 4, 2003",April,4,Switzerland,2,0,0
+"April 5, 2003",April,5,Switzerland,1,0,0
+"April 7, 2003",April,7,Switzerland,1,0,0
+"April 8, 2003",April,8,Switzerland,1,0,0
+"April 9, 2003",April,9,Switzerland,1,0,0
+"April 10, 2003",April,10,Switzerland,1,0,1
+"April 11, 2003",April,11,Switzerland,1,0,1
+"April 12, 2003",April,12,Switzerland,1,0,1
+"April 14, 2003",April,14,Switzerland,1,0,1
+"April 15, 2003",April,15,Switzerland,1,0,1
+"April 16, 2003",April,16,Switzerland,1,0,1
+"April 17, 2003",April,17,Switzerland,1,0,1
+"April 18, 2003",April,18,Switzerland,1,0,1
+"April 19, 2003",April,19,Switzerland,1,0,1
+"April 21, 2003",April,21,Switzerland,1,0,1
+"April 22, 2003",April,22,Switzerland,1,0,1
+"April 23, 2003",April,23,Switzerland,1,0,1
+"April 24, 2003",April,24,Switzerland,1,0,1
+"April 25, 2003",April,25,Switzerland,1,0,1
+"April 26, 2003",April,26,Switzerland,1,0,1
+"April 28, 2003",April,28,Switzerland,1,0,1
+"April 29, 2003",April,29,Switzerland,1,0,1
+"April 30, 2003",April,30,Switzerland,1,0,1
+"May 1, 2003",May,1,Switzerland,1,0,1
+"May 2, 2003",May,2,Switzerland,1,0,1
+"May 3, 2003",May,3,Switzerland,1,0,1
+"May 5, 2003",May,5,Switzerland,1,0,1
+"May 6, 2003",May,6,Switzerland,1,0,1
+"May 7, 2003",May,7,Switzerland,1,0,1
+"May 8, 2003",May,8,Switzerland,1,0,1
+"May 9, 2003",May,9,Switzerland,1,0,1
+"May 10, 2003",May,10,Switzerland,1,0,1
+"May 12, 2003",May,12,Switzerland,1,0,1
+"May 13, 2003",May,13,Switzerland,1,0,1
+"May 14, 2003",May,14,Switzerland,1,0,1
+"May 15, 2003",May,15,Switzerland,1,0,1
+"May 16, 2003",May,16,Switzerland,1,0,1
+"May 17, 2003",May,17,Switzerland,1,0,1
+"May 19, 2003",May,19,Switzerland,1,0,1
+"May 20, 2003",May,20,Switzerland,1,0,1
+"May 21, 2003",May,21,Switzerland,1,0,1
+"May 22, 2003",May,22,Switzerland,1,0,1
+"May 23, 2003",May,23,Switzerland,1,0,1
+"May 24, 2003",May,24,Switzerland,1,0,1
+"May 26, 2003",May,26,Switzerland,1,0,1
+"May 27, 2003",May,27,Switzerland,1,0,1
+"May 28, 2003",May,28,Switzerland,1,0,1
+"May 29, 2003",May,29,Switzerland,1,0,1
+"May 30, 2003",May,30,Switzerland,1,0,1
+"May 31, 2003",May,31,Switzerland,1,0,1
+"June 2, 2003",June,2,Switzerland,1,0,1
+"June 3, 2003",June,3,Switzerland,1,0,1
+"June 4, 2003",June,4,Switzerland,1,0,1
+"June 5, 2003",June,5,Switzerland,1,0,1
+"June 6, 2003",June,6,Switzerland,1,0,1
+"June 9, 2003",June,9,Switzerland,1,0,1
+"June 10, 2003",June,10,Switzerland,1,0,1
+"June 11, 2003",June,11,Switzerland,1,0,1
+"June 12, 2003",June,12,Switzerland,1,0,1
+"June 13, 2003",June,13,Switzerland,1,0,1
+"June 16, 2003",June,16,Switzerland,1,0,1
+"June 17, 2003",June,17,Switzerland,1,0,1
+"June 18, 2003",June,18,Switzerland,1,0,1
+"June 19, 2003",June,19,Switzerland,1,0,1
+"June 20, 2003",June,20,Switzerland,1,0,1
+"June 23, 2003",June,23,Switzerland,1,0,1
+"June 24, 2003",June,24,Switzerland,1,0,1
+"June 25, 2003",June,25,Switzerland,1,0,1
+"June 26, 2003",June,26,Switzerland,1,0,1
+"June 27, 2003",June,27,Switzerland,1,0,1
+"June 30, 2003",June,30,Switzerland,1,0,1
+"July 1, 2003",July,1,Switzerland,1,0,1
+"July 2, 2003",July,2,Switzerland,1,0,1
+"July 3, 2003",July,3,Switzerland,1,0,1
+"July 4, 2003",July,4,Switzerland,1,0,1
+"July 7, 2003",July,7,Switzerland,1,0,1
+"July 8, 2003",July,8,Switzerland,1,0,1
+"July 9, 2003",July,9,Switzerland,1,0,1
+"July 10, 2003",July,10,Switzerland,1,0,1
+"July 11, 2003",July,11,Switzerland,1,0,1
+"March 18, 2003",March,18,"Taiwan, China",3,0,0
+"March 19, 2003",March,19,"Taiwan, China",3,0,0
+"March 20, 2003",March,20,"Taiwan, China",4,0,0
+"March 21, 2003",March,21,"Taiwan, China",6,0,0
+"March 22, 2003",March,22,"Taiwan, China",6,0,0
+"March 24, 2003",March,24,"Taiwan, China",6,0,0
+"March 25, 2003",March,25,"Taiwan, China",6,0,0
+"March 26, 2003",March,26,"Taiwan, China",6,0,0
+"March 27, 2003",March,27,"Taiwan, China",6,0,0
+"March 28, 2003",March,28,"Taiwan, China",10,0,0
+"March 29, 2003",March,29,"Taiwan, China",10,0,0
+"March 31, 2003",March,31,"Taiwan, China",10,0,0
+"April 1, 2003",April,1,"Taiwan, China",13,0,0
+"April 2, 2003",April,2,"Taiwan, China",13,0,0
+"April 3, 2003",April,3,"Taiwan, China",14,0,0
+"April 4, 2003",April,4,"Taiwan, China",15,0,0
+"April 5, 2003",April,5,"Taiwan, China",17,0,0
+"April 7, 2003",April,7,"Taiwan, China",21,0,0
+"April 8, 2003",April,8,"Taiwan, China",19,0,0
+"April 9, 2003",April,9,"Taiwan, China",19,0,0
+"April 10, 2003",April,10,"Taiwan, China",19,0,5
+"April 11, 2003",April,11,"Taiwan, China",21,0,6
+"April 12, 2003",April,12,"Taiwan, China",23,0,7
+"April 14, 2003",April,14,"Taiwan, China",23,0,7
+"April 15, 2003",April,15,"Taiwan, China",23,0,7
+"April 16, 2003",April,16,"Taiwan, China",27,0,10
+"April 17, 2003",April,17,"Taiwan, China",27,0,10
+"April 18, 2003",April,18,"Taiwan, China",29,0,17
+"April 19, 2003",April,19,"Taiwan, China",29,0,17
+"April 21, 2003",April,21,"Taiwan, China",29,0,17
+"April 22, 2003",April,22,"Taiwan, China",29,0,21
+"April 23, 2003",April,23,"Taiwan, China",37,0,21
+"April 24, 2003",April,24,"Taiwan, China",37,0,21
+"April 25, 2003",April,25,"Taiwan, China",41,0,21
+"April 26, 2003",April,26,"Taiwan, China",49,0,25
+"April 28, 2003",April,28,"Taiwan, China",66,0,25
+"April 29, 2003",April,29,"Taiwan, China",66,0,25
+"April 30, 2003",April,30,"Taiwan, China",78,1,25
+"May 1, 2003",May,1,"Taiwan, China",89,3,25
+"May 2, 2003",May,2,"Taiwan, China",100,8,25
+"May 3, 2003",May,3,"Taiwan, China",100,8,25
+"May 5, 2003",May,5,"Taiwan, China",116,8,25
+"May 6, 2003",May,6,"Taiwan, China",116,10,25
+"May 7, 2003",May,7,"Taiwan, China",125,11,26
+"May 8, 2003",May,8,"Taiwan, China",131,13,26
+"May 9, 2003",May,9,"Taiwan, China",149,13,26
+"May 10, 2003",May,10,"Taiwan, China",172,18,26
+"May 12, 2003",May,12,"Taiwan, China",184,20,26
+"May 13, 2003",May,13,"Taiwan, China",207,24,30
+"May 14, 2003",May,14,"Taiwan, China",238,30,38
+"May 15, 2003",May,15,"Taiwan, China",264,30,38
+"May 16, 2003",May,16,"Taiwan, China",274,35,46
+"May 17, 2003",May,17,"Taiwan, China",274,35,46
+"May 19, 2003",May,19,"Taiwan, China",344,40,50
+"May 20, 2003",May,20,"Taiwan, China",383,52,63
+"May 21, 2003",May,21,"Taiwan, China",418,52,71
+"May 22, 2003",May,22,"Taiwan, China",483,60,74
+"May 23, 2003",May,23,"Taiwan, China",538,60,82
+"May 24, 2003",May,24,"Taiwan, China",538,60,82
+"May 26, 2003",May,26,"Taiwan, China",585,72,112
+"May 27, 2003",May,27,"Taiwan, China",596,76,112
+"May 28, 2003",May,28,"Taiwan, China",610,81,112
+"May 29, 2003",May,29,"Taiwan, China",660,81,122
+"May 30, 2003",May,30,"Taiwan, China",667,81,125
+"May 31, 2003",May,31,"Taiwan, China",676,81,129
+"June 2, 2003",June,2,"Taiwan, China",684,81,134
+"June 3, 2003",June,3,"Taiwan, China",679,81,136
+"June 4, 2003",June,4,"Taiwan, China",678,81,272
+"June 5, 2003",June,5,"Taiwan, China",677,81,257
+"June 6, 2003",June,6,"Taiwan, China",676,81,257
+"June 9, 2003",June,9,"Taiwan, China",680,81,257
+"June 10, 2003",June,10,"Taiwan, China",686,81,319
+"June 11, 2003",June,11,"Taiwan, China",687,81,344
+"June 12, 2003",June,12,"Taiwan, China",688,81,347
+"June 13, 2003",June,13,"Taiwan, China",693,81,385
+"June 16, 2003",June,16,"Taiwan, China",698,83,443
+"June 17, 2003",June,17,"Taiwan, China",697,83,460
+"June 18, 2003",June,18,"Taiwan, China",697,83,469
+"June 19, 2003",June,19,"Taiwan, China",695,84,472
+"June 20, 2003",June,20,"Taiwan, China",695,84,480
+"June 23, 2003",June,23,"Taiwan, China",692,84,486
+"June 24, 2003",June,24,"Taiwan, China",687,84,492
+"June 25, 2003",June,25,"Taiwan, China",686,84,492
+"June 26, 2003",June,26,"Taiwan, China",682,84,491
+"June 27, 2003",June,27,"Taiwan, China",681,84,492
+"June 30, 2003",June,30,"Taiwan, China",678,84,495
+"July 1, 2003",July,1,"Taiwan, China",678,84,498
+"July 2, 2003",July,2,"Taiwan, China",676,84,498
+"July 3, 2003",July,3,"Taiwan, China",674,84,498
+"July 4, 2003",July,4,"Taiwan, China",674,84,500
+"July 7, 2003",July,7,"Taiwan, China",674,84,500
+"July 8, 2003",July,8,"Taiwan, China",671,84,502
+"July 9, 2003",July,9,"Taiwan, China",671,84,504
+"July 10, 2003",July,10,"Taiwan, China",671,84,506
+"July 11, 2003",July,11,"Taiwan, China",671,84,507
+"March 17, 2003",March,17,Thailand,1,0,0
+"March 18, 2003",March,18,Thailand,1,0,0
+"March 19, 2003",March,19,Thailand,1,0,0
+"March 20, 2003",March,20,Thailand,1,0,0
+"March 21, 2003",March,21,Thailand,4,0,0
+"March 22, 2003",March,22,Thailand,4,0,0
+"March 24, 2003",March,24,Thailand,5,0,0
+"March 25, 2003",March,25,Thailand,5,0,0
+"March 26, 2003",March,26,Thailand,3,0,0
+"March 27, 2003",March,27,Thailand,3,0,0
+"March 28, 2003",March,28,Thailand,3,0,0
+"March 29, 2003",March,29,Thailand,3,1,0
+"March 31, 2003",March,31,Thailand,5,1,0
+"April 1, 2003",April,1,Thailand,6,1,0
+"April 2, 2003",April,2,Thailand,7,2,0
+"April 3, 2003",April,3,Thailand,7,2,0
+"April 4, 2003",April,4,Thailand,7,2,0
+"April 5, 2003",April,5,Thailand,7,2,0
+"April 7, 2003",April,7,Thailand,7,2,0
+"April 8, 2003",April,8,Thailand,7,2,0
+"April 9, 2003",April,9,Thailand,7,2,0
+"April 10, 2003",April,10,Thailand,7,2,5
+"April 11, 2003",April,11,Thailand,7,2,5
+"April 12, 2003",April,12,Thailand,8,2,5
+"April 14, 2003",April,14,Thailand,8,2,5
+"April 15, 2003",April,15,Thailand,8,2,5
+"April 16, 2003",April,16,Thailand,8,2,5
+"April 17, 2003",April,17,Thailand,8,2,5
+"April 18, 2003",April,18,Thailand,7,2,6
+"April 19, 2003",April,19,Thailand,7,2,6
+"April 21, 2003",April,21,Thailand,7,2,5
+"April 22, 2003",April,22,Thailand,7,2,5
+"April 23, 2003",April,23,Thailand,7,2,5
+"April 24, 2003",April,24,Thailand,8,2,5
+"April 25, 2003",April,25,Thailand,8,2,5
+"April 26, 2003",April,26,Thailand,7,2,5
+"April 28, 2003",April,28,Thailand,7,2,5
+"April 29, 2003",April,29,Thailand,7,2,5
+"April 30, 2003",April,30,Thailand,7,2,5
+"May 1, 2003",May,1,Thailand,7,2,5
+"May 2, 2003",May,2,Thailand,7,2,5
+"May 3, 2003",May,3,Thailand,7,2,5
+"May 5, 2003",May,5,Thailand,7,2,5
+"May 6, 2003",May,6,Thailand,7,2,5
+"May 7, 2003",May,7,Thailand,7,2,5
+"May 8, 2003",May,8,Thailand,7,2,5
+"May 9, 2003",May,9,Thailand,7,2,5
+"May 10, 2003",May,10,Thailand,7,2,5
+"May 12, 2003",May,12,Thailand,7,2,5
+"May 13, 2003",May,13,Thailand,7,2,5
+"May 14, 2003",May,14,Thailand,8,2,5
+"May 15, 2003",May,15,Thailand,8,2,5
+"May 16, 2003",May,16,Thailand,8,2,5
+"May 17, 2003",May,17,Thailand,8,2,5
+"May 19, 2003",May,19,Thailand,8,2,5
+"May 20, 2003",May,20,Thailand,8,2,5
+"May 21, 2003",May,21,Thailand,8,2,5
+"May 22, 2003",May,22,Thailand,8,2,5
+"May 23, 2003",May,23,Thailand,8,2,5
+"May 24, 2003",May,24,Thailand,8,2,5
+"May 26, 2003",May,26,Thailand,8,2,6
+"May 27, 2003",May,27,Thailand,8,2,6
+"May 28, 2003",May,28,Thailand,8,2,6
+"May 29, 2003",May,29,Thailand,8,2,6
+"May 30, 2003",May,30,Thailand,8,2,6
+"May 31, 2003",May,31,Thailand,8,2,6
+"June 2, 2003",June,2,Thailand,8,2,6
+"June 3, 2003",June,3,Thailand,8,2,6
+"June 4, 2003",June,4,Thailand,8,2,6
+"June 5, 2003",June,5,Thailand,8,2,6
+"June 6, 2003",June,6,Thailand,8,2,6
+"June 9, 2003",June,9,Thailand,9,2,6
+"June 10, 2003",June,10,Thailand,9,2,6
+"June 11, 2003",June,11,Thailand,9,2,6
+"June 12, 2003",June,12,Thailand,9,2,6
+"June 13, 2003",June,13,Thailand,9,2,6
+"June 16, 2003",June,16,Thailand,9,2,6
+"June 17, 2003",June,17,Thailand,9,2,6
+"June 18, 2003",June,18,Thailand,9,2,6
+"June 19, 2003",June,19,Thailand,9,2,6
+"June 20, 2003",June,20,Thailand,9,2,6
+"June 23, 2003",June,23,Thailand,9,2,7
+"June 24, 2003",June,24,Thailand,9,2,7
+"June 25, 2003",June,25,Thailand,9,2,7
+"June 26, 2003",June,26,Thailand,9,2,7
+"June 27, 2003",June,27,Thailand,9,2,7
+"June 30, 2003",June,30,Thailand,9,2,7
+"July 1, 2003",July,1,Thailand,9,2,7
+"July 2, 2003",July,2,Thailand,9,2,7
+"July 3, 2003",July,3,Thailand,9,2,7
+"July 4, 2003",July,4,Thailand,9,2,7
+"July 7, 2003",July,7,Thailand,9,2,7
+"July 8, 2003",July,8,Thailand,9,2,7
+"July 9, 2003",July,9,Thailand,9,2,7
+"July 10, 2003",July,10,Thailand,9,2,7
+"July 11, 2003",July,11,Thailand,9,2,7
+"March 18, 2003",March,18,United Kingdom,1,0,0
+"March 19, 2003",March,19,United Kingdom,1,0,0
+"March 20, 2003",March,20,United Kingdom,2,0,0
+"March 21, 2003",March,21,United Kingdom,2,0,0
+"March 22, 2003",March,22,United Kingdom,2,0,0
+"March 24, 2003",March,24,United Kingdom,3,0,0
+"March 25, 2003",March,25,United Kingdom,3,0,0
+"March 26, 2003",March,26,United Kingdom,3,0,0
+"March 27, 2003",March,27,United Kingdom,3,0,0
+"March 28, 2003",March,28,United Kingdom,3,0,0
+"March 29, 2003",March,29,United Kingdom,3,0,0
+"March 31, 2003",March,31,United Kingdom,3,0,0
+"April 1, 2003",April,1,United Kingdom,3,0,0
+"April 2, 2003",April,2,United Kingdom,3,0,0
+"April 3, 2003",April,3,United Kingdom,3,0,0
+"April 4, 2003",April,4,United Kingdom,3,0,0
+"April 5, 2003",April,5,United Kingdom,4,0,0
+"April 7, 2003",April,7,United Kingdom,5,0,0
+"April 8, 2003",April,8,United Kingdom,5,0,0
+"April 9, 2003",April,9,United Kingdom,5,0,0
+"April 10, 2003",April,10,United Kingdom,5,0,3
+"April 11, 2003",April,11,United Kingdom,5,0,3
+"April 12, 2003",April,12,United Kingdom,6,0,3
+"April 14, 2003",April,14,United Kingdom,6,0,3
+"April 15, 2003",April,15,United Kingdom,6,0,3
+"April 16, 2003",April,16,United Kingdom,6,0,3
+"April 17, 2003",April,17,United Kingdom,6,0,3
+"April 18, 2003",April,18,United Kingdom,6,0,5
+"April 19, 2003",April,19,United Kingdom,6,0,5
+"April 21, 2003",April,21,United Kingdom,6,0,5
+"April 22, 2003",April,22,United Kingdom,6,0,5
+"April 23, 2003",April,23,United Kingdom,6,0,5
+"April 24, 2003",April,24,United Kingdom,6,0,6
+"April 25, 2003",April,25,United Kingdom,6,0,6
+"April 26, 2003",April,26,United Kingdom,6,0,6
+"April 28, 2003",April,28,United Kingdom,6,0,6
+"April 29, 2003",April,29,United Kingdom,6,0,6
+"April 30, 2003",April,30,United Kingdom,6,0,6
+"May 1, 2003",May,1,United Kingdom,6,0,6
+"May 2, 2003",May,2,United Kingdom,6,0,6
+"May 3, 2003",May,3,United Kingdom,6,0,6
+"May 5, 2003",May,5,United Kingdom,6,0,6
+"May 6, 2003",May,6,United Kingdom,6,0,6
+"May 7, 2003",May,7,United Kingdom,6,0,6
+"May 8, 2003",May,8,United Kingdom,6,0,6
+"May 9, 2003",May,9,United Kingdom,6,0,6
+"May 10, 2003",May,10,United Kingdom,6,0,6
+"May 12, 2003",May,12,United Kingdom,6,0,6
+"May 13, 2003",May,13,United Kingdom,4,0,4
+"May 14, 2003",May,14,United Kingdom,4,0,4
+"May 15, 2003",May,15,United Kingdom,4,0,4
+"May 16, 2003",May,16,United Kingdom,4,0,4
+"May 17, 2003",May,17,United Kingdom,4,0,4
+"May 19, 2003",May,19,United Kingdom,4,0,4
+"May 20, 2003",May,20,United Kingdom,4,0,4
+"May 21, 2003",May,21,United Kingdom,4,0,4
+"May 22, 2003",May,22,United Kingdom,4,0,4
+"May 23, 2003",May,23,United Kingdom,4,0,4
+"May 24, 2003",May,24,United Kingdom,4,0,4
+"May 26, 2003",May,26,United Kingdom,4,0,4
+"May 27, 2003",May,27,United Kingdom,4,0,4
+"May 28, 2003",May,28,United Kingdom,4,0,4
+"May 29, 2003",May,29,United Kingdom,4,0,4
+"May 30, 2003",May,30,United Kingdom,4,0,4
+"May 31, 2003",May,31,United Kingdom,4,0,4
+"June 2, 2003",June,2,United Kingdom,4,0,4
+"June 3, 2003",June,3,United Kingdom,4,0,4
+"June 4, 2003",June,4,United Kingdom,4,0,4
+"June 5, 2003",June,5,United Kingdom,4,0,4
+"June 6, 2003",June,6,United Kingdom,4,0,4
+"June 9, 2003",June,9,United Kingdom,4,0,4
+"June 10, 2003",June,10,United Kingdom,4,0,4
+"June 11, 2003",June,11,United Kingdom,4,0,4
+"June 12, 2003",June,12,United Kingdom,4,0,4
+"June 13, 2003",June,13,United Kingdom,4,0,4
+"June 16, 2003",June,16,United Kingdom,4,0,4
+"June 17, 2003",June,17,United Kingdom,4,0,4
+"June 18, 2003",June,18,United Kingdom,4,0,4
+"June 19, 2003",June,19,United Kingdom,4,0,4
+"June 20, 2003",June,20,United Kingdom,4,0,4
+"June 23, 2003",June,23,United Kingdom,4,0,4
+"June 24, 2003",June,24,United Kingdom,4,0,4
+"June 25, 2003",June,25,United Kingdom,4,0,4
+"June 26, 2003",June,26,United Kingdom,4,0,4
+"June 27, 2003",June,27,United Kingdom,4,0,4
+"June 30, 2003",June,30,United Kingdom,4,0,4
+"July 1, 2003",July,1,United Kingdom,4,0,4
+"July 2, 2003",July,2,United Kingdom,4,0,4
+"July 3, 2003",July,3,United Kingdom,4,0,4
+"July 4, 2003",July,4,United Kingdom,4,0,4
+"July 7, 2003",July,7,United Kingdom,4,0,4
+"July 8, 2003",July,8,United Kingdom,4,0,4
+"July 9, 2003",July,9,United Kingdom,4,0,4
+"July 10, 2003",July,10,United Kingdom,4,0,4
+"July 11, 2003",July,11,United Kingdom,4,0,4
+"March 19, 2003",March,19,United States,11,0,0
+"March 20, 2003",March,20,United States,11,0,0
+"March 21, 2003",March,21,United States,13,0,0
+"March 22, 2003",March,22,United States,22,0,0
+"March 24, 2003",March,24,United States,37,0,0
+"March 25, 2003",March,25,United States,39,0,0
+"March 26, 2003",March,26,United States,40,0,0
+"March 27, 2003",March,27,United States,45,0,0
+"March 28, 2003",March,28,United States,51,0,0
+"March 29, 2003",March,29,United States,59,0,0
+"March 31, 2003",March,31,United States,59,0,0
+"April 1, 2003",April,1,United States,69,0,0
+"April 2, 2003",April,2,United States,72,0,0
+"April 3, 2003",April,3,United States,85,0,0
+"April 4, 2003",April,4,United States,100,0,0
+"April 5, 2003",April,5,United States,115,0,0
+"April 7, 2003",April,7,United States,141,0,0
+"April 8, 2003",April,8,United States,148,0,0
+"April 9, 2003",April,9,United States,149,0,0
+"April 10, 2003",April,10,United States,154,0,0
+"April 11, 2003",April,11,United States,166,0,0
+"April 12, 2003",April,12,United States,166,0,0
+"April 14, 2003",April,14,United States,174,0,0
+"April 15, 2003",April,15,United States,193,0,0
+"April 16, 2003",April,16,United States,193,0,0
+"April 17, 2003",April,17,United States,199,0,0
+"April 18, 2003",April,18,United States,220,0,0
+"April 19, 2003",April,19,United States,220,0,0
+"April 21, 2003",April,21,United States,39,0,0
+"April 22, 2003",April,22,United States,38,0,0
+"April 23, 2003",April,23,United States,39,0,0
+"April 24, 2003",April,24,United States,37,0,0
+"April 25, 2003",April,25,United States,39,0,0
+"April 26, 2003",April,26,United States,41,0,0
+"April 28, 2003",April,28,United States,41,0,0
+"April 29, 2003",April,29,United States,41,0,0
+"April 30, 2003",April,30,United States,52,0,0
+"May 1, 2003",May,1,United States,54,0,23
+"May 2, 2003",May,2,United States,56,0,24
+"May 3, 2003",May,3,United States,54,0,24
+"May 5, 2003",May,5,United States,61,0,26
+"May 6, 2003",May,6,United States,65,0,32
+"May 7, 2003",May,7,United States,65,0,32
+"May 8, 2003",May,8,United States,63,0,33
+"May 9, 2003",May,9,United States,63,0,33
+"May 10, 2003",May,10,United States,64,0,34
+"May 12, 2003",May,12,United States,64,0,34
+"May 13, 2003",May,13,United States,64,0,35
+"May 14, 2003",May,14,United States,64,0,35
+"May 15, 2003",May,15,United States,64,0,35
+"May 16, 2003",May,16,United States,65,0,34
+"May 17, 2003",May,17,United States,66,0,34
+"May 19, 2003",May,19,United States,67,0,34
+"May 20, 2003",May,20,United States,67,0,34
+"May 21, 2003",May,21,United States,66,0,33
+"May 22, 2003",May,22,United States,65,0,33
+"May 23, 2003",May,23,United States,65,0,33
+"May 24, 2003",May,24,United States,65,0,33
+"May 26, 2003",May,26,United States,65,0,33
+"May 27, 2003",May,27,United States,65,0,32
+"May 28, 2003",May,28,United States,66,0,32
+"May 29, 2003",May,29,United States,66,0,32
+"May 30, 2003",May,30,United States,66,0,32
+"May 31, 2003",May,31,United States,66,0,32
+"June 2, 2003",June,2,United States,66,0,32
+"June 3, 2003",June,3,United States,68,0,33
+"June 4, 2003",June,4,United States,69,0,34
+"June 5, 2003",June,5,United States,69,0,34
+"June 6, 2003",June,6,United States,68,0,35
+"June 9, 2003",June,9,United States,68,0,35
+"June 10, 2003",June,10,United States,69,0,36
+"June 11, 2003",June,11,United States,71,0,36
+"June 12, 2003",June,12,United States,70,0,36
+"June 13, 2003",June,13,United States,71,0,36
+"June 16, 2003",June,16,United States,72,0,36
+"June 17, 2003",June,17,United States,73,0,36
+"June 18, 2003",June,18,United States,75,0,36
+"June 19, 2003",June,19,United States,75,0,36
+"June 20, 2003",June,20,United States,74,0,36
+"June 23, 2003",June,23,United States,74,0,36
+"June 24, 2003",June,24,United States,75,0,36
+"June 25, 2003",June,25,United States,75,0,36
+"June 26, 2003",June,26,United States,74,0,36
+"June 27, 2003",June,27,United States,74,0,64
+"June 30, 2003",June,30,United States,73,0,63
+"July 1, 2003",July,1,United States,73,0,63
+"July 2, 2003",July,2,United States,73,0,63
+"July 3, 2003",July,3,United States,73,0,65
+"July 4, 2003",July,4,United States,73,0,65
+"July 7, 2003",July,7,United States,73,0,65
+"July 8, 2003",July,8,United States,74,0,64
+"July 9, 2003",July,9,United States,75,0,67
+"July 10, 2003",July,10,United States,75,0,67
+"July 11, 2003",July,11,United States,75,0,67
+"March 17, 2003",March,17,Viet Nam,40,1,0
+"March 18, 2003",March,18,Viet Nam,57,1,0
+"March 19, 2003",March,19,Viet Nam,56,2,0
+"March 20, 2003",March,20,Viet Nam,62,2,0
+"March 21, 2003",March,21,Viet Nam,62,2,0
+"March 22, 2003",March,22,Viet Nam,63,2,0
+"March 24, 2003",March,24,Viet Nam,58,4,0
+"March 25, 2003",March,25,Viet Nam,58,4,0
+"March 26, 2003",March,26,Viet Nam,58,4,0
+"March 27, 2003",March,27,Viet Nam,58,4,0
+"March 28, 2003",March,28,Viet Nam,58,4,0
+"March 29, 2003",March,29,Viet Nam,58,4,0
+"March 31, 2003",March,31,Viet Nam,58,4,0
+"April 1, 2003",April,1,Viet Nam,58,4,0
+"April 2, 2003",April,2,Viet Nam,58,4,0
+"April 3, 2003",April,3,Viet Nam,59,4,0
+"April 4, 2003",April,4,Viet Nam,59,4,0
+"April 5, 2003",April,5,Viet Nam,59,4,0
+"April 7, 2003",April,7,Viet Nam,62,4,0
+"April 8, 2003",April,8,Viet Nam,62,4,0
+"April 9, 2003",April,9,Viet Nam,62,4,0
+"April 10, 2003",April,10,Viet Nam,62,4,43
+"April 11, 2003",April,11,Viet Nam,62,4,43
+"April 14, 2003",April,14,Viet Nam,63,5,46
+"April 15, 2003",April,15,Viet Nam,63,5,46
+"April 16, 2003",April,16,Viet Nam,63,5,46
+"April 17, 2003",April,17,Viet Nam,63,5,46
+"April 18, 2003",April,18,Viet Nam,63,5,46
+"April 19, 2003",April,19,Viet Nam,63,5,46
+"April 21, 2003",April,21,Viet Nam,63,5,46
+"April 22, 2003",April,22,Viet Nam,63,5,46
+"April 23, 2003",April,23,Viet Nam,63,5,46
+"April 24, 2003",April,24,Viet Nam,63,5,49
+"April 25, 2003",April,25,Viet Nam,63,5,53
+"April 26, 2003",April,26,Viet Nam,63,5,53
+"April 28, 2003",April,28,Viet Nam,63,5,53
+"April 29, 2003",April,29,Viet Nam,63,5,53
+"April 30, 2003",April,30,Viet Nam,63,5,53
+"May 1, 2003",May,1,Viet Nam,63,5,56
+"May 2, 2003",May,2,Viet Nam,63,5,56
+"May 3, 2003",May,3,Viet Nam,63,5,58
+"May 5, 2003",May,5,Viet Nam,63,5,58
+"May 6, 2003",May,6,Viet Nam,63,5,58
+"May 7, 2003",May,7,Viet Nam,63,5,58
+"May 8, 2003",May,8,Viet Nam,63,5,58
+"May 9, 2003",May,9,Viet Nam,63,5,58
+"May 10, 2003",May,10,Viet Nam,63,5,58
+"May 12, 2003",May,12,Viet Nam,63,5,58
+"May 13, 2003",May,13,Viet Nam,63,5,58
+"May 14, 2003",May,14,Viet Nam,63,5,58
+"May 15, 2003",May,15,Viet Nam,63,5,58
+"May 16, 2003",May,16,Viet Nam,63,5,58
+"May 17, 2003",May,17,Viet Nam,63,5,58
+"May 19, 2003",May,19,Viet Nam,63,5,58
+"May 20, 2003",May,20,Viet Nam,63,5,58
+"May 21, 2003",May,21,Viet Nam,63,5,58
+"May 22, 2003",May,22,Viet Nam,63,5,58
+"May 23, 2003",May,23,Viet Nam,63,5,58
+"May 24, 2003",May,24,Viet Nam,63,5,58
+"May 26, 2003",May,26,Viet Nam,63,5,58
+"May 27, 2003",May,27,Viet Nam,63,5,58
+"May 28, 2003",May,28,Viet Nam,63,5,58
+"May 29, 2003",May,29,Viet Nam,63,5,58
+"May 30, 2003",May,30,Viet Nam,63,5,58
+"May 31, 2003",May,31,Viet Nam,63,5,58
+"June 2, 2003",June,2,Viet Nam,63,5,58
+"June 3, 2003",June,3,Viet Nam,63,5,58
+"June 4, 2003",June,4,Viet Nam,63,5,58
+"June 5, 2003",June,5,Viet Nam,63,5,58
+"June 6, 2003",June,6,Viet Nam,63,5,58
+"June 9, 2003",June,9,Viet Nam,63,5,58
+"June 10, 2003",June,10,Viet Nam,63,5,58
+"June 11, 2003",June,11,Viet Nam,63,5,58
+"June 12, 2003",June,12,Viet Nam,63,5,58
+"June 13, 2003",June,13,Viet Nam,63,5,58
+"June 16, 2003",June,16,Viet Nam,63,5,58
+"June 17, 2003",June,17,Viet Nam,63,5,58
+"June 18, 2003",June,18,Viet Nam,63,5,58
+"June 19, 2003",June,19,Viet Nam,63,5,58
+"June 20, 2003",June,20,Viet Nam,63,5,58
+"June 23, 2003",June,23,Viet Nam,63,5,58
+"June 24, 2003",June,24,Viet Nam,63,5,58
+"June 25, 2003",June,25,Viet Nam,63,5,58
+"June 26, 2003",June,26,Viet Nam,63,5,58
+"June 27, 2003",June,27,Viet Nam,63,5,58
+"June 30, 2003",June,30,Viet Nam,63,5,58
+"July 1, 2003",July,1,Viet Nam,63,5,58
+"July 2, 2003",July,2,Viet Nam,63,5,58
+"July 3, 2003",July,3,Viet Nam,63,5,58
+"July 4, 2003",July,4,Viet Nam,63,5,58
+"July 7, 2003",July,7,Viet Nam,63,5,58
+"July 8, 2003",July,8,Viet Nam,63,5,58
+"July 9, 2003",July,9,Viet Nam,63,5,58
+"July 10, 2003",July,10,Viet Nam,63,5,58
+"July 11, 2003",July,11,Viet Nam,63,5,58
