@@ -1,7 +1,11 @@
 # Json-s-and-the-pretty-pprintcesses
+
+In the midst of the current pandemic, we wanted to evaluate past viral outbreaks to study the effects of population and spreadability on mortality rates. In this analysis we focused on two recent outbreaks, Ebola outbreak in West Africa from  2014-2016 and the SARS outbreak in 2003.
+
 What are the cumulative number of cases and deaths for both viruses? Which countries were the most affected?
 
-In our research we found that during the SARS outbreak of 2003 there were 8,460 confirmed cases compared to the 28,652 confirmed cases reported during the Ebola outbreak of 2014-2016. While both viruses are infectious they were mainly contained to East Asia (SARS) and Western Africa (Ebola). 
+In our research we found that during the SARS outbreak of 2003 there were 8,460 confirmed cases compared to the 28,652 confirmed cases reported during the Ebola outbreak of 2014-2016. While both viruses are infectious they were mainly contained to East Asia (SARS) and Western Africa (Ebola). During our research we found that both outbreaks spread to various countries around the world but they were mainly concentrated in a few countries. For example SARS was reported in 36 countries but only had 6 countries with over 100 cumulative cases. Similarly Ebola cases were reported in 10 countries but on 3 showed significant cases.
+
 
 
 Are there differences in mortality rate for each disease? Does healthcare systems have an impact on total cases and deaths?
